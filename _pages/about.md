@@ -8,14 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-
-<!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
-
-<!-- I am a current master's student in Electrical and Computer Engineering at Purdue University, working with Qi Guo on machine learning and computer vision. My research interests include representation learning, multi-view computer vision. My current work in utilizing the redudancy of objects in multi-camera sensors to leverage image construction in multi-camera systems. -->
-
-<!-- I am a master's student in Electrical and Computer Engineering at Purdue University, specializing in machine learning and computer vision under the guidance of [Professor Qi Guo](https://www.qiguo.org). My research interests are in artificial intelligence and deep learning. My current work involves enhancing image construction in multi-camera systems by leveraging the redundancy of objects in multi-camera sensors. Prior to that, I spent time at PSDSARC working on signal processing. Also, I graduated from KSU with a BS in Electrical Engineering, where I co-advised by Saleh Alshebeili and Omar Aldyel. -->
-
 I am a master's student in Electrical and Computer Engineering at Purdue University. I am currently working under the guidance of [Professor Qi Guo](https://www.qiguo.org). My research interests focus on artificial intelligence and deep learning. Specifically, my current research involves improving image construction for multi-camera systems by leveraging the redundancy of objects present in multi-camera sensors. Prior to my current work, I spent time at [PSDSARC](https://www.psdsarc.org.sa/) working on research and development of various signal processing systems. I did my undergrad at [KSU](https://ksu.edu.sa/en), where I was co-advised by Professors [Saleh Alshebeili](https://faculty.ksu.edu.sa/en/dsaleh) and [Omar Aldayel](https://faculty.ksu.edu.sa/en/omaldayel).
+
+
+<div class="intro">
+<p align="justify">
+I am Manel Baradad Jurjo, 4th year PhD student at MIT under the supervision of 
+<a href="http://web.mit.edu/torralba/www/">Prof. Antonio Torralba</a>.
+I currently work in representation learning and 3D scene understanding, but I am also interested in computational photography and graphics.
+Before coming to MIT, I did my undergrad at <a href="https://cfis.upc.edu/en">CFIS-UPC</a>, where I was 
+fortunate to work in the Image Processing Group under the supervision of 
+<a href="https://imatge.upc.edu/web/people/xavier-giro">Prof. Xavier Giró-i-Nieto</a>.
+</p>
+</div>
+
+
 
 A data-driven personal website
 ======
