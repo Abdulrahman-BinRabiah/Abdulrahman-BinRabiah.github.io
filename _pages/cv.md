@@ -7,12 +7,12 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
 Education
 ======
 
-* M.S. in Electrical and Computer Engineering, Purdue University, 2023
+* M.S. in Electrical and Computer Engineering, Purdue University, 2023 (expected)
 * B.S. in Electrical Engineering, King Saud University, 2018
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
