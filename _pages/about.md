@@ -32,8 +32,6 @@ I am Ahmad Bin Rabiah, a master's student in Electrical and Computer Engineering
 				</td></tr>
 			<tr><td><b> September 2020:</b></td>
 				<td> Our work on <a href="https://dl.acm.org/doi/abs/10.1145/3427796.3427817"> SDR-Based Hardware Implementation and Performance Measurement of Transmit Beampattern Design Algorithms</a> was accepted to ICDCN 2021 in New York, NY!</td></tr>
-			<tr><td><b> August 2021:</b></td>
-				<td> Began ECE MS at Purdue!</td></tr>
 		</tbody>
 	</table>
 </div>
