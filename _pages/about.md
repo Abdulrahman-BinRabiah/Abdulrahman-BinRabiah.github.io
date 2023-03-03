@@ -58,6 +58,7 @@ I am Ahmad Bin Rabiah, a master's student in Electrical and Computer Engineering
 <!--             [<a href="https://www.youtube.com/watch?v=qtb-tKgcTJw">video</a>] -->
         </div>
     </article>
+<\div>
 	
 
 	
