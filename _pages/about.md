@@ -23,9 +23,7 @@ I am Ahmad Bin Rabiah, a master's student in Electrical and Computer Engineering
             <h3>StereoISP: Rethinking Image Signal Processing for Dual Camera Systems</h3>
             <h4 class="authors">
 		    <b>Ahmad Bin Rabiah</b>, Qi Guo
-            </h4>
-	    <p>Conventional image signal processing (ISP) frameworks are designed to reconstruct an RGB image from a single raw measurement. As multi-camera systems become increasingly popular these days, it is worth exploring improvements in ISP frameworks by incorporating raw measurements from multiple cameras. This manuscript is an intermediate progress report of a new ISP framework that is under development, StereoISP. It employs raw measurements from a stereo camera pair to generate a demosaicked, denoised RGB image by utilizing disparity estimated between the two views. We investigate StereoISP by testing the performance on raw image pairs synthesized from stereo datasets. Our preliminary results show an improvement in the PSNR of the reconstructed RGB image by at least 2dB on KITTI 2015 and drivingStereo datasets using ground truth sparse disparity maps.</p>
-		
+            </h4>		
             <p>arXiv 2022</p>
             [<a href="https://arxiv.org/pdf/2211.07390">paper</a>]
         </div>
