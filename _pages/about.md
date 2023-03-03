@@ -18,30 +18,28 @@ I am Ahmad Bin Rabiah, a master's student in Electrical and Computer Engineering
 <div><h1>Publications</h1></div>
 <div id="publications">
     <article>
-        <a classa="pub_image"><img src="files/publications/6_shaders21k/snapshot.png"></a>
+        <a classa="pub_image"><img src="files/2_stereoisp/snapshot.pdf"></a>
         <div class="pub_text">
-            <h3>Procedural Image Programs for Representation Learning</h3>
+            <h3>StereoISP: Rethinking Image Signal Processing for Dual Camera Systems</h3>
             <h4 class="authors">
-                <b>Manel Baradad</b>, Chun-Fu (Richard) Chen, Jonas Wulff, Tongzhou Wang, Rogerio Feris, Antonio Torralba, Phillip Isola
+		    <b>Ahmad Bin Rabiah</b>, Qi Guo
             </h4>
-            <p>NeurIPS 2022</p>
-            [<a href="https://arxiv.org/abs/2211.16412">paper</a>]
-            [<a href="shaders21k">webpage</a>]
-            [<a href="https://github.com/mbaradad/shaders21k">code</a>]
+            <p>arXiv 2022</p>
+            [<a href="https://arxiv.org/pdf/2211.07390">paper</a>]
         </div>
     </article>
 
     <article>
-        <a classa="pub_image"><img src="files/publications/5_noise_learning/snapshot.png"></a>
+        <a classa="pub_image"><img src="files/publications/1_haiku/snapshot.png"></a>
         <div class="pub_text">
-            <h3>Learning to See by Looking at Noise</h3>
+            <h3>Haiku: Efficient Authenticated Key Agreement with Strong Security Guarantees for IoT</h3>
             <h4 class="authors">
-                <b>Manel Baradad*</b>, Jonas Wulff*, Tongzhou Wang, Phillip Isola, Antonio Torralba
+		    Abdulrahman Bin Rabiah, KK Ramakrishnan, Silas Richelson, <b>Ahmad Bin Rabiah</b>, Elizabeth Liri, Koushik Kar
             </h4>
-            <p>NeurIPS 2021 (Spotlight)</p>
-            [<a href="https://arxiv.org/pdf/2106.05963.pdf">paper</a>]
-            [<a href="https://mbaradad.github.io/learning_with_noise/">webpage</a>]
-            [<a href="https://github.com/mbaradad/learning_with_noise">code</a>]
+		
+            <p>ICDCN 2021</p>
+		
+            [<a href="https://dl.acm.org/doi/pdf/10.1145/3427796.3427817">paper</a>]
         </div>
     </article>
 
