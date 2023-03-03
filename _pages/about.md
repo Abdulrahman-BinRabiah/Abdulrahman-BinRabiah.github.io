@@ -16,17 +16,22 @@ I am Ahmad Bin Rabiah, a master's student in Electrical and Computer Engineering
 
 
 
-<!-- <div class="intro">
-<p align="justify">
-I am Manel Baradad Jurjo, 4th year PhD student at MIT under the supervision of 
-<a href="http://web.mit.edu/torralba/www/">Prof. Antonio Torralba</a>.
-I currently work in representation learning and 3D scene understanding, but I am also interested in computational photography and graphics.
-Before coming to MIT, I did my undergrad at <a href="https://cfis.upc.edu/en">CFIS-UPC</a>, where I was 
-fortunate to work in the Image Processing Group under the supervision of 
-<a href="https://imatge.upc.edu/web/people/xavier-giro">Prof. Xavier Giró-i-Nieto</a>.
-</p>
-</div> -->
+Publications
+======
 
+    <article>
+        <a classa="pub_image"><img src="files/publications/6_shaders21k/snapshot.png"></a>
+        <div class="pub_text">
+            <h3>Procedural Image Programs for Representation Learning</h3>
+            <h4 class="authors">
+                <b>Manel Baradad</b>, Chun-Fu (Richard) Chen, Jonas Wulff, Tongzhou Wang, Rogerio Feris, Antonio Torralba, Phillip Isola
+            </h4>
+            <p>NeurIPS 2022</p>
+            [<a href="https://arxiv.org/abs/2211.16412">paper</a>]
+            [<a href="shaders21k">webpage</a>]
+            [<a href="https://github.com/mbaradad/shaders21k">code</a>]
+        </div>
+    </article>
 
 
 A data-driven personal website
