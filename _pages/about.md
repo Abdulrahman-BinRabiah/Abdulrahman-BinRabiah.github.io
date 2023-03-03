@@ -14,7 +14,8 @@ I am Ahmad Bin Rabiah, a master's student in Electrical and Computer Engineering
 </p>
 </div>
   
-  
+<hr>
+
 <div><h1>Publications</h1></div>
 <div id="publications">
     <article>
