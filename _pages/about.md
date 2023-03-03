@@ -16,7 +16,7 @@ I am Ahmad Bin Rabiah, a master's student in Electrical and Computer Engineering
   
 <hr>
 
-<div><h2>Updates</h2></div>
+<div><h1>Updates</h1></div>
 <style> table, tr, td { border: none; }</style>
 <div style="height:250px;overflow:auto;border:0px;border-collapse: collapse;">
 	<table border="none" style="border:0px;border-collapse: collapse;" rules="none">
