@@ -8,10 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a master's student in Electrical and Computer Engineering at Purdue University. I am currently working under the guidance of [Professor Qi Guo](https://www.qiguo.org). My research interests focus on artificial intelligence and deep learning. Specifically, my current research involves improving image construction for multi-camera systems by leveraging the redundancy of objects present in multi-camera sensors. Prior to my current work, I spent time at [PSDSARC](https://www.psdsarc.org.sa/) working on research and development of various signal processing systems. I did my undergrad at [KSU](https://ksu.edu.sa/en), where I was co-advised by Professors [Saleh Alshebeili](https://faculty.ksu.edu.sa/en/dsaleh) and [Omar Aldayel](https://faculty.ksu.edu.sa/en/omaldayel).
-
-
 <div class="intro">
+<p align="justify">
+I am Ahmad Bin Rabiah, a master's student in Electrical and Computer Engineering at Purdue University. I am currently working under the guidance of [Professor Qi Guo](https://www.qiguo.org). My research interests focus on artificial intelligence and deep learning. Specifically, my current research involves improving image construction for multi-camera systems by leveraging the redundancy of objects present in multi-camera sensors. Prior to my current work, I spent time at [PSDSARC](https://www.psdsarc.org.sa/) working on research and development of various signal processing systems. I did my undergrad at [KSU](https://ksu.edu.sa/en), where I was co-advised by Professors [Saleh Alshebeili](https://faculty.ksu.edu.sa/en/dsaleh) and [Omar Aldayel](https://faculty.ksu.edu.sa/en/omaldayel).
+</p>
+</div>
+
+<!-- <div class="intro">
 <p align="justify">
 I am Manel Baradad Jurjo, 4th year PhD student at MIT under the supervision of 
 <a href="http://web.mit.edu/torralba/www/">Prof. Antonio Torralba</a>.
@@ -20,7 +23,7 @@ Before coming to MIT, I did my undergrad at <a href="https://cfis.upc.edu/en">CF
 fortunate to work in the Image Processing Group under the supervision of 
 <a href="https://imatge.upc.edu/web/people/xavier-giro">Prof. Xavier Giró-i-Nieto</a>.
 </p>
-</div>
+</div> -->
 
 
 
