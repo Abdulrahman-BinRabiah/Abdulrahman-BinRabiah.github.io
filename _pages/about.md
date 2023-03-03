@@ -58,7 +58,8 @@ I am Ahmad Bin Rabiah, a master's student in Electrical and Computer Engineering
 <!--             [<a href="https://www.youtube.com/watch?v=qtb-tKgcTJw">video</a>] -->
         </div>
     </article>
-<\div>
+
+<article> <a classa="pub_image"><img src="files/publications/6_shaders21k/snapshot.png"></a><div class="pub_text"><h3>Procedural Image Programs for Representation Learning</h3><h4 class="authors"> <b>Manel Baradad</b>, Chun-Fu (Richard) Chen, Jonas Wulff, Tongzhou Wang, Rogerio Feris, Antonio Torralba, Phillip Isola</h4><p>NeurIPS 2022</p>[<a href="https://arxiv.org/abs/2211.16412">paper</a>] [<a href="shaders21k">webpage</a>] [<a href="https://github.com/mbaradad/shaders21k">code</a>]</div></article>
 	
 
 	
