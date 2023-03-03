@@ -16,8 +16,8 @@ I am Ahmad Bin Rabiah, a master's student in Electrical and Computer Engineering
 
 
 
-Publications
-======
+<div><h1>Publications</h1></div>
+<div id="publications">
 
     <article>
         <a classa="pub_image"><img src="files/publications/6_shaders21k/snapshot.png"></a>
