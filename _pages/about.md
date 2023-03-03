@@ -46,16 +46,16 @@ I am Ahmad Bin Rabiah, a master's student in Electrical and Computer Engineering
     </article>
 
     <article>
-        <a class="pub_image"><img src="files/publications/4_uprightness_invariants/snapshot.gif"></a>
+        <a class="pub_image"><img src="files/0_beamforming/snapshot.png"></a>
         <div class="pub_text">
-            <h3>Height and Uprightness Invariance for 3D Prediction From a Single View</h3>
+            <h3>SDR-Based Hardware Implementation and Performance Measurement of Transmit Beampattern Design Algorithms</h3>
             <h4 class="authors">
-                <b>Manel Baradad</b>, Antonio Torralba
+                <b>Ahmad Bin Rabiah</b>, Mohammed Alsakabi, Omar Aldayel, Saleh Alshebeili
             </h4>
-            <p>CVPR 2020</p>
-            [<a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Baradad_Height_and_Uprightness_Invariance_for_3D_Prediction_From_a_Single_CVPR_2020_paper.pdf">paper</a>]
-            [<a href="https://github.com/mbaradad/im2pcl">code</a>]
-            [<a href="https://www.youtube.com/watch?v=qtb-tKgcTJw">video</a>]
+            <p>RadarConf 2020</p>
+            [<a href="https://www.researchgate.net/profile/Ahmad-Bin-Rabiah/publication/347372921_SDR-Based_Hardware_Implementation_and_Performance_Measurement_of_Transmit_Beampattern_Design_Algorithms/links/5ff826fe299bf140887d99c8/SDR-Based-Hardware-Implementation-and-Performance-Measurement-of-Transmit-Beampattern-Design-Algorithms.pdf">paper</a>]
+<!--             [<a href="https://github.com/mbaradad/im2pcl">code</a>] -->
+<!--             [<a href="https://www.youtube.com/watch?v=qtb-tKgcTJw">video</a>] -->
         </div>
     </article>
 	
