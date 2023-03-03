@@ -36,9 +36,7 @@ I am Ahmad Bin Rabiah, a master's student in Electrical and Computer Engineering
             <h4 class="authors">
 		    Abdulrahman Bin Rabiah, KK Ramakrishnan, Silas Richelson, <b>Ahmad Bin Rabiah</b>, Elizabeth Liri, Koushik Kar
             </h4>
-		
-            <p>ICDCN 2021</p>
-            [<a href="https://dl.acm.org/doi/pdf/10.1145/3427796.3427817">paper</a>]
+            <p>ICDCN 2021</p> [<a href="https://dl.acm.org/doi/pdf/10.1145/3427796.3427817">paper</a>]
         </div>
     </article>
 
