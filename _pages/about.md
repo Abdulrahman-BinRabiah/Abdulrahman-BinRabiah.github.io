@@ -18,7 +18,7 @@ I am Ahmad Bin Rabiah, a master's student in Electrical and Computer Engineering
 <div><h1>Publications</h1></div>
 <div id="publications">
     <article>
-        <a classa="pub_image"><img src="files/publications/2_stereoisp/snapshot.pdf"></a>
+        <a classa="pub_image"><img src="files/2_stereoisp/snapshot.pdf"></a>
         <div class="pub_text">
             <h3>StereoISP: Rethinking Image Signal Processing for Dual Camera Systems</h3>
             <h4 class="authors">
@@ -30,7 +30,7 @@ I am Ahmad Bin Rabiah, a master's student in Electrical and Computer Engineering
     </article>
 
     <article>
-        <a classa="pub_image"><img src="files/publications/1_haiku/snapshot.jpg"></a>
+        <a classa="pub_image"><img src="files/1_haiku/snapshot.png"></a>
         <div class="pub_text">
             <h3>Haiku: Efficient Authenticated Key Agreement with Strong Security Guarantees for IoT</h3>
             <h4 class="authors">
