@@ -79,6 +79,7 @@ I am Ahmad Bin Rabiah, a master's student in Electrical and Computer Engineering
             [<a href="https://www.youtube.com/watch?v=qtb-tKgcTJw">video</a>]
         </div>
     </article>
+	
 	<article>
 		<a class="pub_image"><img src="files/publications/3_unknown_occluders/snapshot.png"></a>
 		<div class="pub_text">
@@ -91,7 +92,7 @@ I am Ahmad Bin Rabiah, a master's student in Electrical and Computer Engineering
 		</div>
 	</article>
 	
-	<article>
+<!-- 	<article>
 		<a class="pub_image"><img src="files/publications/2_inferring_lightfields/snapshot.png"></a>
 		<div class="pub_text">
 			<h3>Inferring Light Fields From Shadows</h3>
@@ -131,7 +132,7 @@ I am Ahmad Bin Rabiah, a master's student in Electrical and Computer Engineering
 		</div>
 	</article>
 	
-</div>
+</div> -->
 
 
 
