@@ -38,7 +38,6 @@ I am Ahmad Bin Rabiah, a master's student in Electrical and Computer Engineering
             </h4>
 		
             <p>ICDCN 2021</p>
-		
             [<a href="https://dl.acm.org/doi/pdf/10.1145/3427796.3427817">paper</a>]
         </div>
     </article>
@@ -51,7 +50,6 @@ I am Ahmad Bin Rabiah, a master's student in Electrical and Computer Engineering
                 <b>Ahmad Bin Rabiah</b>, Mohammed Alsakabi, Omar Aldayel, Saleh Alshebeili
             </h4>
             <p>RadarConf 2020</p>
-		
             [<a href="https://www.researchgate.net/profile/Ahmad-Bin-Rabiah/publication/347372921_SDR-Based_Hardware_Implementation_and_Performance_Measurement_of_Transmit_Beampattern_Design_Algorithms/links/5ff826fe299bf140887d99c8/SDR-Based-Hardware-Implementation-and-Performance-Measurement-of-Transmit-Beampattern-Design-Algorithms.pdf">paper</a>]
         </div>
     </article>
