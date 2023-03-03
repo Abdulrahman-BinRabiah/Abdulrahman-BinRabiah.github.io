@@ -13,27 +13,6 @@ redirect_from:
 I am Ahmad Bin Rabiah, a master's student in Electrical and Computer Engineering at Purdue University. I am currently working under the guidance of <a href="https://www.qiguo.org">Professor Qi Guo</a>. My research interests focus on artificial intelligence and deep learning. Specifically, my current research involves improving image construction for multi-camera systems by leveraging the redundancy of objects present in multi-camera sensors. Prior to my current work, I spent time at <a href="https://www.psdsarc.org.sa/">PSDSARC</a> working on research and development of various signal processing systems. I did my undergrad at <a href="https://ksu.edu.sa">KSU</a>, where I was co-advised by Professors <a href="https://faculty.ksu.edu.sa/en/dsaleh">Saleh Alshebeili</a> and <a href="https://faculty.ksu.edu.sa/en/omaldayel">Omar Aldayel</a>.
 </p>
 </div>
-
-
-<!-- 
-<div><h1>Publications</h1></div>
-<div id="publications">
-
-    <article>
-        <a classa="pub_image"><img src="files/publications/6_shaders21k/snapshot.png"></a>
-        <div class="pub_text">
-            <h3>Procedural Image Programs for Representation Learning</h3>
-            <h4 class="authors">
-                <b>Manel Baradad</b>, Chun-Fu (Richard) Chen, Jonas Wulff, Tongzhou Wang, Rogerio Feris, Antonio Torralba, Phillip Isola
-            </h4>
-            <p>NeurIPS 2022</p>
-            [<a href="https://arxiv.org/abs/2211.16412">paper</a>]
-            [<a href="shaders21k">webpage</a>]
-            [<a href="https://github.com/mbaradad/shaders21k">code</a>]
-        </div>
-    </article>
-
-   -->
   
   
 <div><h1>Publications</h1></div>
@@ -80,59 +59,8 @@ I am Ahmad Bin Rabiah, a master's student in Electrical and Computer Engineering
         </div>
     </article>
 	
-	<article>
-		<a class="pub_image"><img src="files/publications/3_unknown_occluders/snapshot.png"></a>
-		<div class="pub_text">
-			<h3>Using Unknown Occluders to Recover Hidden Scenes</h3>
-		    <h4 class="authors"> 
-                Adam B. Yedidia, <b>Manel Baradad</b>, Christos Thrampoulidis, William T. Freeman, Gregory W. Wornell
-			</h4>
-            <p>CVPR 2019</p>
-			[<a href="https://www.rle.mit.edu/sia/wp-content/uploads/2019/07/2019-yedidia-baradad-thrampoulidis-freeman-wornell-cvpr.pdf">paper</a>]
-		</div>
-	</article>
+
 	
-<!-- 	<article>
-		<a class="pub_image"><img src="files/publications/2_inferring_lightfields/snapshot.png"></a>
-		<div class="pub_text">
-			<h3>Inferring Light Fields From Shadows</h3>
-		    <h4 class="authors"> 
-                <b>Manel Baradad</b>, Vickie Ye, Adam B. Yedidia, Fredo Durand, William T. Freeman, Gregory W. Wornell, Antonio Torralba
-			</h4>
-            <p>CVPR 2018 (Spotlight)</p>
-			[<a href="https://openaccess.thecvf.com/content_cvpr_2018/papers/Baradad_Inferring_Light_Fields_CVPR_2018_paper.pdf">paper</a>]
-			[<a href="https://github.com/mbaradad/shadow2lightfield">code</a>]
-            [<a href="https://www.youtube.com/watch?v=c0BdQN-KZSM">video</a>]
-		</div>
-	</article>
-	
-    <article>
-		<a class="pub_image"><img src="files/publications/1_rsis/snapshot.png" alt=""></a>
-		<div class="pub_text">
-			<h3>Recurrent Neural Networks for Semantic Instance Segmentation</h3>
-		    <h4 class="authors"> 
-                Amaia Salvador, Miriam Bellver, Victor Campos, <b>Manel Baradad</b>, Ferran Marques, Jordi Torres, Xavier Giro-i-Nieto
-			</h4>
-            <p>CVPR 2018 DeepVision Workshop</p>
-			[<a href="https://arxiv.org/abs/1712.00617">paper</a>]
-			[<a href="https://imatge-upc.github.io/rsis/">www</a>]
-			[<a href="https://github.com/imatge-upc/rsis">code</a>]
-		</div>
-	</article>
-	
-    <article>
-		<a class="pub_image"><img src="files/publications/0_chronic_disease/snapshot.png" alt=""></a>
-		<div class="pub_text">
-			<h3>Characterizing chronic disease and polymedication prescription patterns from electronic health records</h3>
-		    <h4 class="authors"> 
-                Martí Zamora, <b>Manel Baradad</b>, Ester Amado, Silvia Cordomí, Esther Limón, Juliana Ribera, Marta Arias and Ricard Gavaldà
-			</h4>
-            <p>DSAA 2015</p>
-			[<a href="https://ieeexplore.ieee.org/document/7344870">paper</a>]
-		</div>
-	</article>
-	
-</div> -->
 
 
 
