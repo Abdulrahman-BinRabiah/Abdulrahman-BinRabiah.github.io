@@ -84,7 +84,7 @@ author:
   avatar           : "abinrabiah.jpg"
   bio              : "Graduate Student at Purdue University"
   location         : "West Lafayette, IN"
-  employer         :
+#   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=FAdWrfkAAAAJ"
   email            : "abinrabi@purdue.edu"
