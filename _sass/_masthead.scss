@@ -31,6 +31,14 @@
   }
 }
 
+.masthead__sticky {
+   clear: both;
+   position: -webkit-sticky;
+   position: sticky;
+   top: 0em
+}
+
+
 .masthead__menu {
 
   ul {
