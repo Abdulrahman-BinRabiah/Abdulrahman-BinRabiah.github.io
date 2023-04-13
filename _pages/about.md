@@ -43,6 +43,7 @@ I am Ahmad Bin Rabiah, a master's student in Electrical and Computer Engineering
 
 <div><h1>Publications</h1></div>
 <div id="publications">
+	
     <article>
         <a classa="pub_image"><img src="files/2_stereoisp/snapshot.png"></a>
         <div class="pub_text">
@@ -54,7 +55,6 @@ I am Ahmad Bin Rabiah, a master's student in Electrical and Computer Engineering
             [<a href="https://arxiv.org/pdf/2211.07390">paper</a>]
         </div>
     </article>
-
     <article>
         <a classa="pub_image"><img src="files/1_haiku/snapshot.png"></a>
         <div class="pub_text">
@@ -64,6 +64,7 @@ I am Ahmad Bin Rabiah, a master's student in Electrical and Computer Engineering
             </h4>
             <p>ICDCN 2021</p> [<a href="https://dl.acm.org/doi/pdf/10.1145/3427796.3427817">paper</a>]
         </div>
+	    
     </article>
 
     <article>
