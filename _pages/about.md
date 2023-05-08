@@ -16,19 +16,13 @@ I am Ahmad Bin Rabiah, a master's student in Electrical and Computer Engineering
 
 <div class="intro">
 <p align="justify">
-<!-- 	I am Ahmad Bin Rabiah, an incoming computer science PhD student at <a href="https://cse.ucsd.edu/">UCSD</a> with <a href="https://cseweb.ucsd.edu/~jmcauley/">Julian McAuley</a>. Before UCSD, I earned my master's in electrical and computer engineering from <a href="https://engineering.purdue.edu/ECE">Purdue University</a>. During that time, I have spent time working with <a href="https://www.qiguo.org">Qi Guo</a>, where we worked on improving image reconstruction for multi-camera systems by leveraging the redundancy of objects present in multi-camera sensors. 
 
-	Prior to my current work, I spent time at <a href="https://www.psdsarc.org.sa/">PSDSARC</a> working on research and development of various signal processing systems. I completed my undergraduate study at <a href="https://ksu.edu.sa/en">KSU</a> in Electrical Engineering, where I started my research with <a href="https://faculty.ksu.edu.sa/en/dsaleh">Saleh Alshebeili</a> and <a href="https://faculty.ksu.edu.sa/en/omaldayel">Omar Aldayel</a> on signal processing and waveform design. -->
 	
 	
-	I am Ahmad Bin Rabiah, an incoming computer science PhD student at <a href="https://cse.ucsd.edu/">UCSD</a>, where I will be working with <a href="https://cseweb.ucsd.edu/~jmcauley/">Julian McAuley</a>. Prior to UCSD, I earned my master's degree in Electrical and Computer Engineering from <a href="https://engineering.purdue.edu/ECE">Purdue University</a>. During that time, I collaborated with <a href="https://www.qiguo.org">Qi Guo</a> on improving image reconstruction for multi-camera systems by leveraging the redundancy of objects present in multi-camera sensors. <br><br>
+	I am Ahmad Bin Rabiah, an incoming computer science PhD student at <a href="https://cse.ucsd.edu/">UCSD</a>, where I will be working with <a href="https://cseweb.ucsd.edu/~jmcauley/">Julian McAuley</a>. Prior to UCSD, I earned my master's degree in Electrical and Computer Engineering from <a href="https://engineering.purdue.edu/ECE">Purdue University</a>. During that time, I worked with <a href="https://www.qiguo.org">Qi Guo</a> on improving image reconstruction for multi-camera systems by leveraging the redundancy of objects in multi-camera sensors. <br><br>
 
 	Before my current academic pursuits, I was a part of <a href="https://www.psdsarc.org.sa/">PSDSARC</a>, where I worked on the research and development of various signal processing systems. I completed my undergraduate studies in Electrical Engineering from <a href="https://ksu.edu.sa/en">KSU</a>. There, I began my research journey with <a href="https://faculty.ksu.edu.sa/en/dsaleh">Saleh Alshebeili</a> and <a href="https://faculty.ksu.edu.sa/en/omaldayel">Omar Aldayel</a>, working on signal processing and waveform design.
 	
-<!-- 	
-	a master's student in Electrical and Computer Engineering at Purdue University, currently working under the guidance of <a href="https://www.qiguo.org">Professor Qi Guo</a>. My research interests focus on artificial intelligence and deep learning. Specifically, my current research involves improving image reconstruction for multi-camera systems by leveraging the redundancy of objects present in multi-camera sensors. 
-	
-	Prior to my current work, I spent time at <a href="https://www.psdsarc.org.sa/">PSDSARC</a> working on research and development of various signal processing systems. I completed my undergraduate study at <a href="https://ksu.edu.sa/en">KSU</a> in Electrical Engineering, where I started my research with <a href="https://faculty.ksu.edu.sa/en/dsaleh">Saleh Alshebeili</a> and <a href="https://faculty.ksu.edu.sa/en/omaldayel">Omar Aldayel</a> on signal processing and waveform design. -->
 </p>
 </div>
   
