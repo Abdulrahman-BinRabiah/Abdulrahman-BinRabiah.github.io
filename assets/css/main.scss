@@ -41,24 +41,24 @@
 @import "print";
 
 
-#publications article  {
+#publications article {
     overflow: hidden;
     width: 100%;
 }
 
-#publications article a img{
-    background-color: black;
-    width: 30%;
-    float: left;
-    vertical-align: top;
+#publications article a {
+    display: flex;
+    align-items: flex-start;
 }
 
+#publications article a img {
+    background-color: black;
+    width: 30%;
+}
 
-#publications article .pub_text{
+#publications article .pub_text {
     width: 67%;
     margin-left: 3%;
-    float: left;
-    vertical-align: top;
 }
 
 #intro {
