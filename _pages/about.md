@@ -30,7 +30,7 @@ redirect_from:
 			<tr><td><b> November 2022:</b></td>
 				<td> Our work on <a href="https://arxiv.org/abs/2211.07390"> StereoISP: Rethinking Image Signal Processing for Dual Camera Systems</a> is available on arXiv!</td></tr>
 			<tr><td><b> August 2021:</b></td>
-				<td> Began ECE MS at Purdue!</td></tr>
+				<td> Began MS in ECE at Purdue!</td></tr>
 			
 			<tr><td><b> January 2021:</b></td>
 				<td> Our work on <a href="https://ieeexplore.ieee.org/abstract/document/9266553"> Haiku: Efficient Authenticated Key Agreement with Strong Security Guarantees for IoT</a> was accepted to RadarConf 2020 in Florence, Italy!
