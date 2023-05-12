@@ -27,6 +27,10 @@ redirect_from:
 	<table border="none" style="border:0px;border-collapse: collapse;" rules="none">
 		<colgroup><col span="1" style="width: 12%;"><col span="1" style="width: 88%;"></colgroup>
 		<tbody>
+			
+			<tr><td><b> May 2023:</b></td>
+				<td> Purdue proud! MS in ECE, officially in the books.</td></tr>
+			
 			<tr><td><b> November 2022:</b></td>
 				<td> Our work on <a href="https://arxiv.org/abs/2211.07390"> StereoISP: Rethinking Image Signal Processing for Dual Camera Systems</a> is available on arXiv!</td></tr>
 			<tr><td><b> August 2021:</b></td>
