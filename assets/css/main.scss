@@ -67,4 +67,14 @@
     width: 70%;
 }
 
+/* Change selection color */
+::selection {
+    background: #ffb7b7; /* change this to your preferred color */
+    color: #000; /* change this to your preferred text color */
+}
+
+::-moz-selection {
+    background: #ffb7b7; /* change this to your preferred color */
+    color: #000; /* change this to your preferred text color */
+}
 
