@@ -31,6 +31,9 @@ redirect_from:
 		<colgroup><col span="1" style="width: 12%;"><col span="1" style="width: 88%;"></colgroup>
 		<tbody>
 			
+			<tr><td><b> September 2023:</b></td>
+				<td> Began CS PhD at UCSD!.</td></tr>			
+    
 			<tr><td><b> May 2023:</b></td>
 				<td> Purdue proud! MS in ECE, officially in the books.</td></tr>
 			
