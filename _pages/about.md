@@ -8,14 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-
 <div class="intro">
 	<p align="justify">
-		I am Ahmad Bin Rabiah, an incoming computer science PhD student at <a href="https://cse.ucsd.edu/">UCSD</a>, where I will be working with <a href="https://cseweb.ucsd.edu/~jmcauley/">Julian McAuley</a>. Prior to UCSD, I earned my master's degree in Electrical and Computer Engineering from <a href="https://engineering.purdue.edu/ECE">Purdue University</a> (Hail Purdue!). During that time, I worked with <a href="https://www.qiguo.org">Qi Guo</a> on improving image reconstruction for multi-camera systems by leveraging the redundancy of objects in multi-camera sensors.<br><br>
+		I am Ahmad Bin Rabiah, a 1st year PhD student in computer science at <a href="https://cse.ucsd.edu/">UCSD</a>, where I am fortunate to be advised by <a href="https://cseweb.ucsd.edu/~jmcauley/">Julian McAuley</a>. My research interests lie in the intersection of machine learning, generative models, personalization, and recommender systems. My primary aspiration is to evolve the capacity of machines to perceive, understand, and cater preferences in a more sophisticated manner.<br><br>
 		
-		Before my current academic pursuits, I was a part of <a href="https://www.psdsarc.org.sa/">PSDSARC</a>, where I worked on the research and development of various signal processing systems. I completed my undergraduate studies in Electrical Engineering from <a href="https://ksu.edu.sa/en">KSU</a>. There, I began my research journey with <a href="https://faculty.ksu.edu.sa/en/dsaleh">Saleh Alshebeili</a> and <a href="https://faculty.ksu.edu.sa/en/omaldayel">Omar Aldayel</a>, working on signal processing and convex optimization.
+		Prior to UCSD, my academic journey took me to <a href="https://engineering.purdue.edu/ECE">Purdue University</a>, where I attained a Master's in Electrical and Computer Engineering (Hail Purdue!). It was during this time, in collaboration with Professor <a href="https://www.qiguo.org">Qi Guo</a>, that I sharpened my expertise in deep learning and computer vision. Together, we ventured into optimizing image reconstruction processes for multi-camera systems, unraveling a unique framework along the way.<br><br>
+		
+		My foundational experiences trace back to my time at <a href="https://www.psdsarc.org.sa/">PSDSARC</a>, where I actively contributed to developing signal processing systems. This was built upon my undergraduate years at <a href="https://ksu.edu.sa/en">KSU</a>, where I navigated pioneering projects in signal processing and convex optimization mentored by <a href="https://faculty.ksu.edu.sa/en/dsaleh">Saleh Alshebeili</a> and <a href="https://faculty.ksu.edu.sa/en/omaldayel">Omar Aldayel</a>, working on signal processing and convex optimization.
 	</p>
 </div>
+
+
   
 <hr>
 
