@@ -32,7 +32,7 @@ redirect_from:
 		<tbody>
 			
 			<tr><td><b> September 2023:</b></td>
-				<td> Started CS PhD journey at UCSD!.</td></tr>			
+				<td> Started CS PhD journey at UCSD!</td></tr>			
     
 			<tr><td><b> May 2023:</b></td>
 				<td> Purdue proud! MS in ECE, officially in the books.</td></tr>
