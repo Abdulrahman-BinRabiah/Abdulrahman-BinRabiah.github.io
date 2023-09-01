@@ -10,7 +10,7 @@ redirect_from:
 
 <div class="intro">
 	<p align="justify">
-		I am Ahmad Bin Rabiah, a 1st year PhD student in computer science at <a href="https://cse.ucsd.edu/">UCSD</a>, where I am fortunate to be advised by <a href="https://cseweb.ucsd.edu/~jmcauley/">Julian McAuley</a>. My research interests lie in the intersection of machine learning, generative models, personalization, and recommender systems. My primary aspiration is to evolve the capacity of machines to perceive, understand, and cater preferences in a more sophisticated manner.<br><be>
+		I am Ahmad Bin Rabiah, a 1st year PhD student in computer science at <a href="https://cse.ucsd.edu/">UCSD</a>, where I am fortunate to be advised by <a href="https://cseweb.ucsd.edu/~jmcauley/">Julian McAuley</a>. My research interests lie in the intersection of machine learning, generative models, personalization, and recommender systems. My primary aspiration is to evolve the capacity of machines to perceive, understand, and cater preferences in a more sophisticated manner.<br><br>
 		
 		I completed my Master's in Electrical and Computer Engineering at <a href="https://engineering.purdue.edu/ECE">Purdue University</a> — Hail Purdue! It was during this time, in collaboration with Professor <a href="https://www.qiguo.org">Qi Guo</a>, that I sharpened my expertise in machine learning and computer vision. Our efforts led to a refined method for enhancing image reconstruction in multi-camera systems.<br><br>
 		
