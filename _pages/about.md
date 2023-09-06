@@ -14,7 +14,7 @@ redirect_from:
 		
 		I completed my Master's in Electrical and Computer Engineering at <a href="https://engineering.purdue.edu/ECE">Purdue University</a> — Hail Purdue! It was during this time, in collaboration with Professor <a href="https://www.qiguo.org">Qi Guo</a>, that I sharpened my expertise in machine learning and computer vision. Our efforts led to a refined method for enhancing image reconstruction in multi-camera systems.<br><br>
 		
-		My foundational experiences trace back to my time at <a href="https://www.psdsarc.org.sa/">PSDSARC</a> — an applied research center, where I contributed to developing signal processing systems. This was built upon my undergraduate years at <a href="https://ksu.edu.sa/en">KSU</a>, where I navigated pioneering projects in signal processing and convex optimization mentored by <a href="https://faculty.ksu.edu.sa/en/dsaleh">Saleh Alshebeili</a> and <a href="https://faculty.ksu.edu.sa/en/omaldayel">Omar Aldayel</a>, working on signal processing and convex optimization.
+		My early experience traces back to my time at <a href="https://www.psdsarc.org.sa/">PSDSARC</a> — an applied research center, where I contributed to developing signal processing systems. This was built upon my undergraduate years at <a href="https://ksu.edu.sa/en">KSU</a>, where I navigated pioneering projects in signal processing and convex optimization mentored by <a href="https://faculty.ksu.edu.sa/en/dsaleh">Saleh Alshebeili</a> and <a href="https://faculty.ksu.edu.sa/en/omaldayel">Omar Aldayel</a>, working on signal processing and convex optimization.
 	</p>
 </div>
 
