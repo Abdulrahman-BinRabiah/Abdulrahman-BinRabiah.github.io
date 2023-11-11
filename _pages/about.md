@@ -73,7 +73,7 @@ redirect_from:
     </article>
 
     <article>
-        <a class="pub_image"><img src="files/0_beamforming/snapshot.png"></a>
+        <a class="pub_image"><img src="files/Boschlogo.jpg"></a>
         <div class="pub_text">
             <h3>SDR-Based Hardware Implementation and Performance Measurement of Transmit Beampattern Design Algorithms</h3>
             <h4 class="authors">
