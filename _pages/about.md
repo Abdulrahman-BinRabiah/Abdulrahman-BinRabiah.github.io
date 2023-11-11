@@ -65,7 +65,8 @@ redirect_from:
         <div class="pub_text">
             <h3>Lucid Motors</h3>
 	    <p>Sr. Systems Engineer, Security</p>
-	    <p>Newark, California, United States of America (USA) * March 2023 - Present</p>
+	    <p>Newark, California, United States of America (USA) <br>
+     March 2023 - Present</p>
         </div>
     </article>
 
