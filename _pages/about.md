@@ -65,7 +65,7 @@ redirect_from:
         <div class="pub_text">
             <h3>Lucid Motors</h3>
 	    <p>Sr. Systems Engineer, Security</p>
-	    <p>Newark, California, United States of America (USA)</p>
+	    <p>Newark, California, United States of America (USA) * March 2023 - Present</p>
         </div>
     </article>
 
@@ -75,7 +75,7 @@ redirect_from:
         <div class="pub_text">
             <h3>Bosch</h3>
 	    <p>Machine Learning Security Engineer</p>
-	    <p>Pittsburgh, Pennsylvania, United States of America (USA)</p>
+	    <p>Pittsburgh, Pennsylvania, United States of America (USA) * September 2021 - July 2022</p>
         </div>
     </article>
 
