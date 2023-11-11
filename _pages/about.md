@@ -64,10 +64,8 @@ redirect_from:
         <a classa="pub_image"><img src="files/Lucidlogo.jpg"></a>
         <div class="pub_text">
             <h3>Lucid Motors</h3>
-            <h4 class="authors">
-		    Sr. Systems Engineer, Security
-            </h4>
-            <p>ICDCN 2021</p> [<a href="https://dl.acm.org/doi/pdf/10.1145/3427796.3427817">paper</a>]
+	    <p>Sr. Systems Engineer, Security</p>
+	    <p>Newark, California, United States of America (USA)</p>
         </div>
 	    
     </article>
