@@ -61,7 +61,7 @@ redirect_from:
 <div id="WorkExperience">
 	
     <article>
-        <a classa="pub_image"><img src="files/1_haiku/snapshot.png"></a>
+        <a classa="pub_image"><img src="files/Lucidlogo.jpg"></a>
         <div class="pub_text">
             <h3>Lucid Motors</h3>
             <h4 class="authors">
