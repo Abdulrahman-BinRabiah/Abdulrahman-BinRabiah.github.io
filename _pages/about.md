@@ -79,6 +79,8 @@ redirect_from:
         </div>
     </article>
 
+<hr>
+
 <div><h1>Education</h1></div>
 <div id="education">
 	
@@ -117,6 +119,7 @@ redirect_from:
         </div>
     </article>
 
+<hr>
 
 <div><h1>Publications</h1></div>
 <div id="publications">
