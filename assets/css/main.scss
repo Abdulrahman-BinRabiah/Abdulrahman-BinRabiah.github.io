@@ -63,6 +63,50 @@
     float: left;
 }
 
+#education article {
+    overflow: hidden;
+    width: 100%;
+}
+
+// #publications article a {
+//     display: flex;
+//     align-items: flex-start;
+// }
+
+#education article a img {
+    background-color: black;
+    width: 30%;
+    float: left;
+}
+
+#education article .pub_text {
+    width: 67%;
+    margin-left: 3%;
+    float: left;
+}
+
+#WorkExperience article {
+    overflow: hidden;
+    width: 100%;
+}
+
+// #publications article a {
+//     display: flex;
+//     align-items: flex-start;
+// }
+
+#WorkExperience article a img {
+    background-color: black;
+    width: 30%;
+    float: left;
+}
+
+#WorkExperience article .pub_text {
+    width: 67%;
+    margin-left: 3%;
+    float: left;
+}
+
 #intro {
     width: 70%;
 }
