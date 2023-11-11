@@ -67,21 +67,17 @@ redirect_from:
 	    <p>Sr. Systems Engineer, Security</p>
 	    <p>Newark, California, United States of America (USA)</p>
         </div>
-	    
     </article>
 
+    
     <article>
-        <a class="pub_image"><img src="files/Boschlogo.jpg"></a>
+        <a classa="pub_image"><img src="files/Boschlogo.jpg"></a>
         <div class="pub_text">
-            <h3>SDR-Based Hardware Implementation and Performance Measurement of Transmit Beampattern Design Algorithms</h3>
-            <h4 class="authors">
-                <b>Ahmad Bin Rabiah</b>, Mohammed Alsakabi, Omar Aldayel, Saleh Alshebeili
-            </h4>
-            <p>RadarConf 2020</p>
-            [<a href="https://www.researchgate.net/profile/Ahmad-Bin-Rabiah/publication/347372921_SDR-Based_Hardware_Implementation_and_Performance_Measurement_of_Transmit_Beampattern_Design_Algorithms/links/5ff826fe299bf140887d99c8/SDR-Based-Hardware-Implementation-and-Performance-Measurement-of-Transmit-Beampattern-Design-Algorithms.pdf">paper</a>]
+            <h3>Bosch</h3>
+	    <p>Machine Learning Security Engineer</p>
+	    <p>Pittsburgh, Pennsylvania, United States of America (USA)</p>
         </div>
     </article>
-
 
 <div><h1>Education</h1></div>
 <div id="education">
