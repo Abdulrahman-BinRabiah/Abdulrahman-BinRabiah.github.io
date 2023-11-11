@@ -1,5 +1,7 @@
 # main links links
 main:
+  - title: "Work Experience"
+    url: /#WorkExperience
   - title: "Education"
     url: /#education
     
