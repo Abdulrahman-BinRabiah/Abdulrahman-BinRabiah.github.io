@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ahmad Bin Rabiah"
+title                    : "Abdulrahman Bin Rabiah"
 title_separator          : "-"
-name                     : &name "Ahmad Bin Rabiah"
-description              : &description "CS PhD Student at University of California, San Diego"
-url                      : https://abinrabiah.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Abdulrahman Bin Rabiah"
+description              : &description "Sr. Systems Engineer, Security at Lucid USA"
+url                      : https://Abdulrahman-BinRabiah2.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "abinrabiah.github.io"
+repository               : "Abdulrahman-BinRabiah2.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ahmad Bin Rabiah"
-  avatar           : "abinrabiah.jpg"
-  bio              : "CS PhD Student at University of California, San Diego"
-  location         : "La Jolla, CA" #"West Lafayette, IN"
+  name             : "Abdulrahman Bin Rabiah"
+  avatar           : "abinrabia.jpg"
+  bio              : "Sr. Systems Engineer, Security at Lucid USA"
+  location         : "Riyadh, Saudi Arabia" #"West Lafayette, IN"
 #   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=FAdWrfkAAAAJ"
-  email            : "abinrabiah@ucsd.edu" #"abinrabi@purdue.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=wuwOXMkAAAAJ&hl=en"
+  email            : "abdulrahman.binrabiah@gmail.com" #"abinrabi@purdue.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        : #example: "xxx"
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "abinrabiah"
+  github           : "a"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "abinrabiah"
+  linkedin         : "abin"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
