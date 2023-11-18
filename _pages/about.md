@@ -10,11 +10,13 @@ redirect_from:
 
 <div class="intro">
 	<p align="justify">
-		I am Ahmad Bin Rabiah, a 1st year PhD student in computer science at <a href="https://cse.ucsd.edu/">UCSD</a>, where I am fortunate to be advised by Professor <a href="https://cseweb.ucsd.edu/~jmcauley/">Julian McAuley</a>. My research interests lie in the intersection of machine learning, generative models, personalization, and recommender systems. My primary aspiration is to evolve the capacity of machines to perceive, understand, and cater to preferences in a more sophisticated manner.<br><br>
-		
-		I completed my Master's in Electrical and Computer Engineering at <a href="https://engineering.purdue.edu/ECE">Purdue University</a> — Hail Purdue! It was during this time, in collaboration with Professor <a href="https://www.qiguo.org">Qi Guo</a>, that I sharpened my expertise in machine learning and computer vision. Our efforts led to a refined method for enhancing image reconstruction in multi-camera systems.<br><br>
-		
-		My early experience traces back to my time at <a href="https://www.psdsarc.org.sa/">PSDSARC</a> — an applied research center, where I contributed to developing signal processing systems. This was built upon my undergraduate years at <a href="https://ksu.edu.sa/en">KSU</a>, where I was mentored by Professors <a href="https://faculty.ksu.edu.sa/en/dsaleh">Saleh Alshebeili</a> and <a href="https://faculty.ksu.edu.sa/en/omaldayel">Omar Aldayel</a>, working on signal processing and convex optimization.
+		Welcome to the professional page of Abdulrahman Bin Rabiah, a dynamic Senior Systems Engineer, Security at Lucid Motors USA and former Machine Learning Security Engineer at Bosch USA. With a PhD in Computer Science from the University of California, Riverside (UCR), I specialize in enhancing security in the IoT and automotive sectors through innovative cryptographic mechanisms and secure communication protocols.
+
+At Lucid Motors, I spearheaded the development of Secure Onboard Communication protocols, significantly elevating vehicle network security. My tenure at Bosch USA was marked by pioneering work in enabling IoT devices to securely outsource deep neural network computations.
+
+My academic journey culminated in a dissertation focusing on lightweight cryptographic mechanisms for IoT and embedded systems, under the guidance of esteemed Professors Nael Abu-Ghazaleh and Silas Richelson. This work, along with other projects at UCR, led to multiple publications and patents, showcasing my commitment to advancing the field of cybersecurity.
+
+Explore my site to learn more about my professional journey, contributions to cybersecurity, and ongoing efforts to bridge the gap between academic research and industry applications.
 	</p>
 </div>
 
