@@ -10,11 +10,10 @@ redirect_from:
 
 <div class="intro">
 	<p align="justify">
-		Welcome to the professional page of Abdulrahman Bin Rabiah, a dynamic Senior Systems Engineer, Security at Lucid Motors USA and former Machine Learning Security Engineer at Bosch USA. With a PhD in Computer Science from the University of California, Riverside (UCR), I specialize in enhancing security in the IoT and automotive sectors through innovative cryptographic mechanisms and secure communication protocols.
+		Welcome to the professional page of Abdulrahman Bin Rabiah, a dynamic Senior Systems Engineer, Security at Lucid Motors USA and former Machine Learning Security Engineer at Bosch USA. With a PhD in Computer Science from the University of California, Riverside (UCR), I specialize in enhancing security in the IoT and automotive sectors through innovative cryptographic mechanisms and secure communication protocols.<br>
+At Lucid Motors, I spearheaded the development of Secure Onboard Communication protocols, significantly elevating vehicle network security. My tenure at Bosch USA was marked by pioneering work in enabling IoT devices to securely outsource deep neural network computations. <br>
 
-At Lucid Motors, I spearheaded the development of Secure Onboard Communication protocols, significantly elevating vehicle network security. My tenure at Bosch USA was marked by pioneering work in enabling IoT devices to securely outsource deep neural network computations.
-
-My academic journey culminated in a dissertation focusing on lightweight cryptographic mechanisms for IoT and embedded systems, under the guidance of esteemed Professors Nael Abu-Ghazaleh and Silas Richelson. This work, along with other projects at UCR, led to multiple publications and patents, showcasing my commitment to advancing the field of cybersecurity.
+My academic journey culminated in a dissertation focusing on lightweight cryptographic mechanisms for IoT and embedded systems, under the guidance of esteemed Professors Nael Abu-Ghazaleh and Silas Richelson. This work, along with other projects at UCR, led to multiple publications and patents, showcasing my commitment to advancing the field of cybersecurity. <br>
 
 Explore my site to learn more about my professional journey, contributions to cybersecurity, and ongoing efforts to bridge the gap between academic research and industry applications.
 	</p>
