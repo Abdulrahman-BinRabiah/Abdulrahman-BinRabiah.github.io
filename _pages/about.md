@@ -77,7 +77,7 @@ Explore my site to learn more about my professional journey, contributions to cy
         <div class="pub_text">
             <h3>Bosch</h3>
 	    <p>Machine Learning Security Engineer</p>
-	    <p>Pittsburgh, Pennsylvania, United States of America (USA) * September 2021 - July 2022</p>
+	    <p>Pittsburgh, Pennsylvania, United States of America (USA) <br> September 2021 - July 2022</p>
         </div>
     </article>
 
@@ -127,37 +127,70 @@ Explore my site to learn more about my professional journey, contributions to cy
 <div id="publications">
 	
     <article>
-        <a classa="pub_image"><img src="files/2_stereoisp/snapshot.png"></a>
+        <a classa="pub_image"><img src="files/1_haiku/snapshot.png"></a>
         <div class="pub_text">
-            <h3>StereoISP: Rethinking Image Signal Processing for Dual Camera Systems</h3>
+            <h3>MSS: Lightweight network authentication for resource constrained devices via Mergeable Stateful Signatures</h3>
             <h4 class="authors">
-		    <b>Ahmad Bin Rabiah</b>, Qi Guo
-            </h4>		
-            <p>arXiv 2022</p>
-            [<a href="https://arxiv.org/pdf/2211.07390">paper</a>]
+		     <b>Abdulrahman Bin Rabiah</b>, Yugarshi Shashwat, Fatemah Alharbi, Silas Richelson, Nael Abu-Ghazaleh
+            </h4>
+            <p>IEEE International Conference on Distributed Computing Systems (ICDCS) 2021</p> [<a href="https://bit.ly/3hq1bIa">paper</a>]
         </div>
     </article>
+
+        <article>
+        <a classa="pub_image"><img src="files/1_haiku/snapshot.png"></a>
+        <div class="pub_text">
+            <h3>CSProp: Ciphertext and Signature Propagation Low-Overhead Public-Key Cryptosystem for IoT</h3>
+            <h4 class="authors">
+		    Fatemah Alharbi, Arwa Alrawais, <b>Abdulrahman Bin Rabiah</b>, Silas Richelson, Nael Abu-Ghazaleh
+            </h4>
+            <p>USENIX Security Symposium 2021</p> [<a href="https://www.usenix.org/system/files/sec21-alharbi.pdf">paper</a>]
+        </div>
+    </article>
+    
     <article>
         <a classa="pub_image"><img src="files/1_haiku/snapshot.png"></a>
         <div class="pub_text">
             <h3>Haiku: Efficient Authenticated Key Agreement with Strong Security Guarantees for IoT</h3>
             <h4 class="authors">
-		    Abdulrahman Bin Rabiah, KK Ramakrishnan, Silas Richelson, <b>Ahmad Bin Rabiah</b>, Elizabeth Liri, Koushik Kar
+		    <b>Abdulrahman Bin Rabiah</b>, KK Ramakrishnan, Silas Richelson, Ahmad Bin Rabiah, Elizabeth Liri, Koushik Kar
             </h4>
-            <p>ICDCN 2021</p> [<a href="https://dl.acm.org/doi/pdf/10.1145/3427796.3427817">paper</a>]
+            <p>ICDCN 2021</p> [<a href="https://www.researchgate.net/publication/347979731_Haiku_Efficient_Authenticated_Key_Agreement_with_Strong_Security_Guarantees_for_IoT#fullTextFileContent">paper</a>]
         </div>
-	    
     </article>
 
     <article>
-        <a class="pub_image"><img src="files/0_beamforming/snapshot.png"></a>
+        <a classa="pub_image"><img src="files/1_haiku/snapshot.png"></a>
         <div class="pub_text">
-            <h3>SDR-Based Hardware Implementation and Performance Measurement of Transmit Beampattern Design Algorithms</h3>
+            <h3>Privacy-Preserving Authentication Framework for UAS Traffic Management Systems</h3>
             <h4 class="authors">
-                <b>Ahmad Bin Rabiah</b>, Mohammed Alsakabi, Omar Aldayel, Saleh Alshebeili
+		    Anas Alsoliman, <b>Abdulrahman Bin Rabiah</b>, Marco Levorato
             </h4>
-            <p>RadarConf 2020</p>
-            [<a href="https://www.researchgate.net/profile/Ahmad-Bin-Rabiah/publication/347372921_SDR-Based_Hardware_Implementation_and_Performance_Measurement_of_Transmit_Beampattern_Design_Algorithms/links/5ff826fe299bf140887d99c8/SDR-Based-Hardware-Implementation-and-Performance-Measurement-of-Transmit-Beampattern-Design-Algorithms.pdf">paper</a>]
+            <p>ICDCN 2021</p> [<a href="https://ieeexplore.ieee.org/abstract/document/9265534">paper</a>]
+        </div>
+    </article>
+
+
+    <article>
+        <a classa="pub_image"><img src="files/1_haiku/snapshot.png"></a>
+        <div class="pub_text">
+            <h3>Robustness of IoT Application Protocols to Network Impairments</h3>
+            <h4 class="authors">
+		   Elizabeth Liri, Prateek Singh, <b>Abdulrahman Bin Rabiah</b>, Kiran Makhijani, Koushik Kar, KK Ramakrishnan
+            </h4>
+            <p>ICDCN 2021</p> [<a href="https://www.researchgate.net/publication/347979731_Haiku_Efficient_Authenticated_Key_Agreement_with_Strong_Security_Guarantees_for_IoT#fullTextFileContent">paper</a>]
+        </div>
+    </article>
+
+    
+    <article>
+        <a classa="pub_image"><img src="files/1_haiku/snapshot.png"></a>
+        <div class="pub_text">
+            <h3>Haiku: Efficient Authenticated Key Agreement with Strong Security Guarantees for IoT</h3>
+            <h4 class="authors">
+		    <b>Abdulrahman Bin Rabiah</b>, KK Ramakrishnan, Silas Richelson, Ahmad Bin Rabiah, Elizabeth Liri, Koushik Kar
+            </h4>
+            <p>ICDCN 2021</p> [<a href="https://www.researchgate.net/publication/347979731_Haiku_Efficient_Authenticated_Key_Agreement_with_Strong_Security_Guarantees_for_IoT#fullTextFileContent">paper</a>]
         </div>
     </article>
 
