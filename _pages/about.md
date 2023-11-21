@@ -86,40 +86,38 @@ Explore my site to learn more about my professional journey, contributions to cy
 <div><h1>Education</h1></div>
 <div id="education">
 	
-    <article>
-        <a classa="pub_image"><img src="files/2_stereoisp/snapshot.png"></a>
-        <div class="pub_text">
-            <h3>StereoISP: Rethinking Image Signal Processing for Dual Camera Systems</h3>
-            <h4 class="authors">
-		    <b>Ahmad Bin Rabiah</b>, Qi Guo
-            </h4>		
-            <p>arXiv 2022</p>
-            [<a href="https://arxiv.org/pdf/2211.07390">paper</a>]
+        <article>
+        <div class="edu-text">
+	<h3>University of California, Riverside</h3>
+	<p><em>PhD in Computer Science</em></p>
+	<p>Riverside, CA</p>
+	<p>2016 - 2023</p>
+	<p>Advisors: Professor <a href="https://www.cs.ucr.edu/~nael/" target="_blank" rel="noopener noreferrer">Nael Abu-Ghazaleh</a> and Professor <a href="https://www.cs.ucr.edu/~silas/" target="_blank" rel="noopener noreferrer">Silas Richelson</a> </p>
         </div>
-    </article>
-    <article>
-        <a classa="pub_image"><img src="files/1_haiku/snapshot.png"></a>
-        <div class="pub_text">
-            <h3>Haiku: Efficient Authenticated Key Agreement with Strong Security Guarantees for IoT</h3>
-            <h4 class="authors">
-		    Abdulrahman Bin Rabiah, KK Ramakrishnan, Silas Richelson, <b>Ahmad Bin Rabiah</b>, Elizabeth Liri, Koushik Kar
-            </h4>
-            <p>ICDCN 2021</p> [<a href="https://dl.acm.org/doi/pdf/10.1145/3427796.3427817">paper</a>]
-        </div>
-	    
+        <a href="#" class="edu_image"><img src="files/ucrlogo.png" alt="University of California, Riverside Logo"></a>
     </article>
 
-    <article>
-        <a class="pub_image"><img src="files/0_beamforming/snapshot.png"></a>
-        <div class="pub_text">
-            <h3>SDR-Based Hardware Implementation and Performance Measurement of Transmit Beampattern Design Algorithms</h3>
-            <h4 class="authors">
-                <b>Ahmad Bin Rabiah</b>, Mohammed Alsakabi, Omar Aldayel, Saleh Alshebeili
-            </h4>
-            <p>RadarConf 2020</p>
-            [<a href="https://www.researchgate.net/profile/Ahmad-Bin-Rabiah/publication/347372921_SDR-Based_Hardware_Implementation_and_Performance_Measurement_of_Transmit_Beampattern_Design_Algorithms/links/5ff826fe299bf140887d99c8/SDR-Based-Hardware-Implementation-and-Performance-Measurement-of-Transmit-Beampattern-Design-Algorithms.pdf">paper</a>]
+
+    
+     <article>
+        <div class="edu-text">
+		<h3>Purdue University</h3>
+		<p><em>MS in Electrical and Computer Engineering</em></p>
+		<p>West Lafayette, IN</p>
+		<p>2021 - 2023</p>
         </div>
+        <a href="#" class="edu_image"><img src="files/logos/purdue.png" alt="Purdue University Logo"></a>
     </article>
+     <article>
+        <div class="edu-text">
+		<h3>King Saud University</h3>
+		<p><em>BS in Electrical Engineering - Communication Systems</em></p>
+		<p>Riyadh, Saudi Arabia</p>
+		<p>2013 - 2018</p>
+        </div>
+        <a href="#" class="edu_image"><img src="files/logos/ksu2.png" alt="King Saud University Logo"></a>
+    </article>
+</div>
 
 <hr>
 
