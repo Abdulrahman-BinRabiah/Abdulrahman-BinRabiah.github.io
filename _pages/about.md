@@ -91,29 +91,38 @@ Explore my site to learn more about my professional journey, contributions to cy
 	<h3>University of California, Riverside</h3>
 	<p><em>PhD in Computer Science</em></p>
 	<p>Riverside, CA</p>
-	<p>2016 - 2023</p>
+	<p>2023</p>
 	<p>Advisors: Professor <a href="https://www.cs.ucr.edu/~nael/" target="_blank" rel="noopener noreferrer">Nael Abu-Ghazaleh</a> and Professor <a href="https://www.cs.ucr.edu/~silas/" target="_blank" rel="noopener noreferrer">Silas Richelson</a> </p>
         </div>
         <a href="#" class="edu_image"><img src="files/ucrlogo.png" alt="University of California, Riverside Logo"></a>
     </article>
 
+	<article>
+        <div class="edu-text">
+	<h3>University of California, Riverside</h3>
+	<p><em>MSc in Computer Science</em></p>
+	<p>Riverside, CA</p>
+	<p>2019</p>
+        </div>
+        <a href="#" class="edu_image"><img src="files/ucrlogo.png" alt="University of California, Riverside Logo"></a>
+    </article>
 
+    	<article>
+        <div class="edu-text">
+	<h3>University of Pittsburgh</h3>
+	<p><em>MSc in Telecommunications - Information Security</em></p>
+	<p>Pittsburgh, PA</p>
+	<p>2016</p>
+        </div>
+        <a href="#" class="edu_image"><img src="files/pittlogo.png" alt="University of Pittsburgh Logo"></a>
+    </article>
     
      <article>
         <div class="edu-text">
-		<h3>Purdue University</h3>
-		<p><em>MS in Electrical and Computer Engineering</em></p>
-		<p>West Lafayette, IN</p>
-		<p>2021 - 2023</p>
-        </div>
-        <a href="#" class="edu_image"><img src="files/logos/purdue.png" alt="Purdue University Logo"></a>
-    </article>
-     <article>
-        <div class="edu-text">
 		<h3>King Saud University</h3>
-		<p><em>BS in Electrical Engineering - Communication Systems</em></p>
+		<p><em>BSc in Computer Information Systems</em></p>
 		<p>Riyadh, Saudi Arabia</p>
-		<p>2013 - 2018</p>
+		<p>2011</p>
         </div>
         <a href="#" class="edu_image"><img src="files/logos/ksu2.png" alt="King Saud University Logo"></a>
     </article>
