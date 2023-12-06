@@ -178,7 +178,7 @@ Explore my site to learn more about my professional journey, contributions to cy
             <h4 class="authors">
 		    Anas Alsoliman, <b>Abdulrahman Bin Rabiah</b>, Marco Levorato
             </h4>
-            <p>ICDCN 2021</p> [<a href="https://ieeexplore.ieee.org/abstract/document/9265534">paper</a>]
+            <p>CSNet 2021</p> [<a href="https://ieeexplore.ieee.org/abstract/document/9265534">paper</a>]
         </div>
     </article>
 
@@ -190,7 +190,7 @@ Explore my site to learn more about my professional journey, contributions to cy
             <h4 class="authors">
 		   Elizabeth Liri, Prateek Singh, <b>Abdulrahman Bin Rabiah</b>, Kiran Makhijani, Koushik Kar, KK Ramakrishnan
             </h4>
-            <p>ICDCN 2021</p> [<a href="https://www.researchgate.net/publication/347979731_Haiku_Efficient_Authenticated_Key_Agreement_with_Strong_Security_Guarantees_for_IoT#fullTextFileContent">paper</a>]
+            <p>LANMAN 2018</p> [<a href="https://www.researchgate.net/publication/328458525_Robustness_of_IoT_Application_Protocols_to_Network_Impairments">paper</a>]
         </div>
     </article>
 
@@ -198,11 +198,11 @@ Explore my site to learn more about my professional journey, contributions to cy
     <article>
         <a classa="pub_image"><img src="files/1_haiku/snapshot.png"></a>
         <div class="pub_text">
-            <h3>Haiku: Efficient Authenticated Key Agreement with Strong Security Guarantees for IoT</h3>
+            <h3>A Lightweight Authentication and Key Exchange Protocol for IoT</h3>
             <h4 class="authors">
-		    <b>Abdulrahman Bin Rabiah</b>, KK Ramakrishnan, Silas Richelson, Ahmad Bin Rabiah, Elizabeth Liri, Koushik Kar
+		    <b>Abdulrahman Bin Rabiah</b>, KK Ramakrishnan, Elizabeth Liri, Koushik Kar
             </h4>
-            <p>ICDCN 2021</p> [<a href="https://www.researchgate.net/publication/347979731_Haiku_Efficient_Authenticated_Key_Agreement_with_Strong_Security_Guarantees_for_IoT#fullTextFileContent">paper</a>]
+            <p>ICDCN 2021</p> [<a href="https://www.ndss-symposium.org/wp-content/uploads/2018/07/diss2018_4_Bin-Rabiah_paper.pdf">paper</a>]
         </div>
     </article>
 
