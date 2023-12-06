@@ -33,16 +33,16 @@ Explore my site to learn more about my professional journey, contributions to cy
 		<tbody>
 			
 			<tr><td><b> October 2023:</b></td>
-				<td> Filed a patent on privacy-preserving and secure communicatoin for connected vehicles named "Token-based Vehicular Security System" at the United States Patent and Trademark Office!</td></tr>			
+				<td> Filed a patent on privacy-preserving and secure communicatoin for connected vehicles named "Token-based Vehicular Security System" at the United States Patent and Trademark Office (USPTO)!</td></tr>			
     
 			<tr><td><b> March 2023:</b></td>
-				<td> Joined Lucid Motors in Newark, California, United States as a Senior Systems Engineer, Secuirty!</td></tr>
+				<td> Joined Lucid Motors in Newark, California, United States as a Senior Systems Engineer, Security!</td></tr>
 
 			<tr><td><b> March 2023:</b></td>
 				<td> Received my PhD in Computer Science from the University of California, Riverside!</td></tr>
 
 			<tr><td><b> February 2023:</b></td>
-				<td> Filed a patent on authenticated communication for internet of things (IoTs) using lightweight cryptogrphy named "Lightweight network authentication for resource constrained devices via mergeable stateful signatures" at the United States Patent and Trademark Office!</td></tr>
+				<td> Filed a patent on authenticated communication for internet of things (IoTs) using lightweight cryptogrphy named "Lightweight network authentication for resource constrained devices via mergeable stateful signatures" at the United States Patent and Trademark Office (USPTO)!</td></tr>
 
 			<tr><td><b> September 2021:</b></td>
 				<td> Joined Bosch USA in Pittsburgh, Pennsylvania, United States as a Machine Learning Security Engineer!</td></tr>
@@ -51,7 +51,7 @@ Explore my site to learn more about my professional journey, contributions to cy
 				<td> Our work on <a href="https://www.usenix.org/system/files/sec21-alharbi.pdf"> CSProp: Ciphertext and Signature Propagation Low-Overhead Public-Key Cryptosystem for IoT Environments</a> was accepted to USENIX Security 2021 in Vancouver, B.C., Canada!
 				</td></tr>
    					
-			<tr><td><b> August 2021:</b></td>
+			<tr><td><b> July 2021:</b></td>
 				<td> Our work on <a href="https://bit.ly/3hq1bIa"> MSS: Lightweight network authentication for resource constrained devices via Mergeable Stateful Signatures</a> was accepted to International Conference on Distributed Computing Systems (ICDCS) 2021 in Washington, D.C., USA!
 				</td></tr>
     
