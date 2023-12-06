@@ -32,24 +32,29 @@ Explore my site to learn more about my professional journey, contributions to cy
 		<colgroup><col span="1" style="width: 12%;"><col span="1" style="width: 88%;"></colgroup>
 		<tbody>
 			
-			<tr><td><b> September 2023:</b></td>
-				<td> Started CS PhD journey at UCSD!</td></tr>			
+			<tr><td><b> October 2023:</b></td>
+				<td> Filed a patent on privacy-preserving and secure communicatoin for connected vehicles named "Token-based Vehicular Security System" at the United States Patent and Trademark Office!</td></tr>			
     
-			<tr><td><b> May 2023:</b></td>
-				<td> Purdue proud! MS in ECE, officially in the books.</td></tr>
-			
-			<tr><td><b> November 2022:</b></td>
-				<td> Our work on <a href="https://arxiv.org/abs/2211.07390"> StereoISP: Rethinking Image Signal Processing for Dual Camera Systems</a> is available on arXiv!</td></tr>
+			<tr><td><b> March 2023:</b></td>
+				<td> Joined Lucid Motors in Newark, California, United States as a Senior Systems Engineer, Secuirty!</td></tr>
+
+			<tr><td><b> March 2023:</b></td>
+				<td> Received my PhD in Computer Science from the University of California, Riverside!</td></tr>
+
+			<tr><td><b> February 2023:</b></td>
+				<td> Filed a patent on authenticated communication for internet of things (IoTs) using lightweight cryptogrphy named "Lightweight network authentication for resource constrained devices via mergeable stateful signatures" at the United States Patent and Trademark Office!</td></tr>
+
+			<tr><td><b> September 2021:</b></td>
+				<td> Joined Bosch USA in Pittsburgh, Pennsylvania, United States as a Machine Learning Security Engineer!</td></tr>
+   			
 			<tr><td><b> August 2021:</b></td>
-				<td> Began MS in ECE at Purdue!</td></tr>
-			
-			<tr><td><b> January 2021:</b></td>
-				<td> Our work on <a href="https://ieeexplore.ieee.org/abstract/document/9266553"> Haiku: Efficient Authenticated Key Agreement with Strong Security Guarantees for IoT</a> was accepted to RadarConf 2020 in Florence, Italy!
+				<td> Our work on <a href="https://www.usenix.org/system/files/sec21-alharbi.pdf"> CSProp: Ciphertext and Signature Propagation Low-Overhead Public-Key Cryptosystem for IoT Environments</a> was accepted to USENIX Security 2021 in Vancouver, B.C., Canada!
 				</td></tr>
-			
-			<tr><td><b> September 2020:</b></td>
-				<td> Our work on <a href="https://dl.acm.org/doi/abs/10.1145/3427796.3427817"> SDR-Based Hardware Implementation and Performance Measurement of Transmit Beampattern Design Algorithms</a> was accepted to ICDCN 2021 in New York, NY!</td></tr>
-			
+   					
+			<tr><td><b> August 2021:</b></td>
+				<td> Our work on <a href="https://bit.ly/3hq1bIa"> MSS: Lightweight network authentication for resource constrained devices via Mergeable Stateful Signatures</a> was accepted to International Conference on Distributed Computing Systems (ICDCS) 2021 in Washington, D.C., USA!
+				</td></tr>
+    
 		</tbody>
 	</table>
 </div>
