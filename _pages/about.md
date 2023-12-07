@@ -202,7 +202,7 @@ Explore my site to learn more about my professional journey, contributions to cy
             <h4 class="authors">
 		    <b>Abdulrahman Bin Rabiah</b>, KK Ramakrishnan, Elizabeth Liri, Koushik Kar
             </h4>
-            <p>ICDCN 2021</p> [<a href="https://www.ndss-symposium.org/wp-content/uploads/2018/07/diss2018_4_Bin-Rabiah_paper.pdf">paper</a>]
+            <p>DISS, NDSS 2018</p> [<a href="https://www.ndss-symposium.org/wp-content/uploads/2018/07/diss2018_4_Bin-Rabiah_paper.pdf">paper</a>]
         </div>
     </article>
 
