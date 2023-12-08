@@ -119,7 +119,7 @@ Explore my site to learn more about my professional journey, contributions to cy
 	<p>Pittsburgh, PA</p>
 	<p>2016</p>
         </div>
-        <a href="#" class="edu_image"><img src="files/pittlogo.png" alt="University of Pittsburgh Logo"></a>
+        <a href="#" class="edu_image"><img src="files/pittlogo.jpeg" alt="University of Pittsburgh Logo"></a>
     </article>
     
      <article>
@@ -129,7 +129,7 @@ Explore my site to learn more about my professional journey, contributions to cy
 		<p>Riyadh, Saudi Arabia</p>
 		<p>2011</p>
         </div>
-        <a href="#" class="edu_image"><img src="files/logos/ksu2.png" alt="King Saud University Logo"></a>
+        <a href="#" class="edu_image"><img src="files/ksulogo.png" alt="King Saud University Logo"></a>
     </article>
 </div>
 
@@ -139,7 +139,7 @@ Explore my site to learn more about my professional journey, contributions to cy
 <div id="publications">
 	
     <article>
-        <a classa="pub_image"><img src="files/1_haiku/snapshot.png"></a>
+        <a classa="pub_image"><img src="files/msslogo.png"></a>
         <div class="pub_text">
             <h3>MSS: Lightweight network authentication for resource constrained devices via Mergeable Stateful Signatures</h3>
             <h4 class="authors">
@@ -150,7 +150,7 @@ Explore my site to learn more about my professional journey, contributions to cy
     </article>
 
         <article>
-        <a classa="pub_image"><img src="files/1_haiku/snapshot.png"></a>
+        <a classa="pub_image"><img src="files/csproplogo.png"></a>
         <div class="pub_text">
             <h3>CSProp: Ciphertext and Signature Propagation Low-Overhead Public-Key Cryptosystem for IoT</h3>
             <h4 class="authors">
