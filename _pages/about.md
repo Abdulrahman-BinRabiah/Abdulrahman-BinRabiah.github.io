@@ -172,7 +172,7 @@ Explore my site to learn more about my professional journey, contributions to cy
     </article>
 
     <article>
-        <a classa="pub_image"><img src="files/csnetlogo.png"></a>
+        <a classa="pub_image"><img src="files/csnetlogo"></a>
         <div class="pub_text">
             <h3>Privacy-Preserving Authentication Framework for UAS Traffic Management Systems</h3>
             <h4 class="authors">
