@@ -139,7 +139,7 @@ Explore my site to learn more about my professional journey, contributions to cy
 <div id="publications">
 	
     <article>
-        <a classa="pub_image"><img src="files/msslogo.png"></a>
+        <a classa="pub_image"><img src="files/mss logo.png"></a>
         <div class="pub_text">
             <h3>MSS: Lightweight network authentication for resource constrained devices via Mergeable Stateful Signatures</h3>
             <h4 class="authors">
@@ -150,7 +150,7 @@ Explore my site to learn more about my professional journey, contributions to cy
     </article>
 
         <article>
-        <a classa="pub_image"><img src="files/csproplogo.png"></a>
+        <a classa="pub_image"><img src="files/csprop logo.png"></a>
         <div class="pub_text">
             <h3>CSProp: Ciphertext and Signature Propagation Low-Overhead Public-Key Cryptosystem for IoT</h3>
             <h4 class="authors">
@@ -172,7 +172,7 @@ Explore my site to learn more about my professional journey, contributions to cy
     </article>
 
     <article>
-        <a classa="pub_image"><img src="files/1_haiku/snapshot.png"></a>
+        <a classa="pub_image"><img src="files/csnetlogo.png"></a>
         <div class="pub_text">
             <h3>Privacy-Preserving Authentication Framework for UAS Traffic Management Systems</h3>
             <h4 class="authors">
@@ -184,7 +184,7 @@ Explore my site to learn more about my professional journey, contributions to cy
 
 
     <article>
-        <a classa="pub_image"><img src="files/1_haiku/snapshot.png"></a>
+        <a classa="pub_image"><img src="files/lanmanlogo.png"></a>
         <div class="pub_text">
             <h3>Robustness of IoT Application Protocols to Network Impairments</h3>
             <h4 class="authors">
@@ -196,7 +196,7 @@ Explore my site to learn more about my professional journey, contributions to cy
 
     
     <article>
-        <a classa="pub_image"><img src="files/1_haiku/snapshot.png"></a>
+        <a classa="pub_image"><img src="files/disslogo.png"></a>
         <div class="pub_text">
             <h3>A Lightweight Authentication and Key Exchange Protocol for IoT</h3>
             <h4 class="authors">
