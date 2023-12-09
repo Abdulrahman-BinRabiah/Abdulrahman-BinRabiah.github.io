@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Abdulrahman Bin Rabiah"
+title                    : "Abdulrahman Bin Rabiah, PhD"
 title_separator          : "-"
 name                     : &name "Abdulrahman Bin Rabiah, PhD"
 description              : &description "Sr. Systems Engineer, Security at Lucid USA"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/abdulrahman-bin-rabiah-62904598"
+  linkedin         : "https://www.linkedin.com/in/abdulrahman-bin-rabiah-phd-62904598/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
