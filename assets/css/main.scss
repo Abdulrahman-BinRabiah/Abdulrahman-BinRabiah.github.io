@@ -41,72 +41,33 @@
 @import "print";
 
 
-// #publications article {
-//     overflow: hidden;
-//     width: 100%;
-// }
-
-// #publications article a img {
-//     background-color: black;
-//     width: 30%;
-//     float: left;
-// }
-
-// #publications article .pub_text {
-//     width: 67%;
-//     margin-left: 3%;
-//     float: left;
-// }
-
-
-
-
-
-
-
-
-
-
-
-
 #publications article {
-    display: flex;
-    align-items: flex-start;
+    overflow: hidden;
     width: 100%;
-    margin-bottom: 2em;
 }
 
-
-#publications article a.pub_image {
-    flex-shrink: 0; /* Prevent image from shrinking */
+#publications article a img {
+    background-color: black;
     width: 50%;
-    height: auto;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    float: left;
 }
-
 
 #publications article .pub_text {
-    flex-grow: 1; /* Allow text section to fill remaining space */
+    width: 67%;
     margin-left: 3%;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+    float: left;
 }
 
 
-// #publications .edu-text p {
-//     margin-bottom: 0; /* This removes the space below paragraphs specifically in the education section */
-// }
 
 
-// #publications .edu-text h3 {
-//     margin: 0.5em; /* Adjusts the space above <h3> headings to half the current font size */
-//     margin-left: 0;
-//     padding-left: 0;
-//     text-indent: 0;
-// }
+
+
+
+
+
+
+
 
 
 
