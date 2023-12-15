@@ -90,7 +90,6 @@ Explore my site to learn more about my professional journey, contributions to cy
 
 <hr>
 
-
 <div><h1>Work Experience</h1></div>
 <div id="WorkExperience">
 	
