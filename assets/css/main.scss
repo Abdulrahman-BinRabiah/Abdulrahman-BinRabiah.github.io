@@ -41,37 +41,82 @@
 @import "print";
 
 
-#publications article {
-    overflow: hidden;
-    width: 100%;
-}
-
-// #publications article a {
-//     display: flex;
-//     align-items: flex-start;
+// #publications article {
+//     overflow: hidden;
+//     width: 100%;
 // }
 
-#publications article a img {
-    background-color: black;
-    width: 30%;
-    float: left;
+// #publications article a img {
+//     background-color: black;
+//     width: 30%;
+//     float: left;
+// }
+
+// #publications article .pub_text {
+//     width: 67%;
+//     margin-left: 3%;
+//     float: left;
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+#publications article {
+    display: flex;
+    align-items: flex-start;
+    width: 100%;
+    margin-bottom: 2em;
 }
 
-#publications article .pub_text {
-    width: 67%;
-    margin-left: 3%;
-    float: left;
+
+#publications article a.pub_image {
+    flex-shrink: 0; /* Prevent image from shrinking */
+    width: 30%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
+
+
+#publications article .pub_text {
+    flex-grow: 1; /* Allow text section to fill remaining space */
+    margin-left: 3%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+#publications .edu-text p {
+    margin-bottom: 0; /* This removes the space below paragraphs specifically in the education section */
+}
+
+
+#publications .edu-text h3 {
+    margin: 0.5em; /* Adjusts the space above <h3> headings to half the current font size */
+    margin-left: 0;
+    padding-left: 0;
+    text-indent: 0;
+}
+
+
+
+
+
 
 #education article {
     overflow: hidden;
     width: 100%;
 }
-
-// #publications article a {
-//     display: flex;
-//     align-items: flex-start;
-// }
 
 #education article a img {
     background-color: black;
@@ -89,11 +134,6 @@
     overflow: hidden;
     width: 100%;
 }
-
-// #publications article a {
-//     display: flex;
-//     align-items: flex-start;
-// }
 
 #WorkExperience article a img {
     background-color: black;
