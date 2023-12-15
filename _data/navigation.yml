@@ -1,7 +1,11 @@
 # main links links
 main:
+  - title: "Patents"
+    url: /#Patents
+    
   - title: "Work Experience"
     url: /#WorkExperience
+  
   - title: "Education"
     url: /#education
     
