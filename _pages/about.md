@@ -62,6 +62,31 @@ Explore my site to learn more about my professional journey, contributions to cy
 
 <hr>
 
+<div><h1>Patents</h1></div>
+<div id="Patents">
+	
+    <article>
+        <a classa="pub_image"><img src="files/tvsslogo.png"></a>
+        <div class="pub_text">
+            <h3>Token-based Vehicular Security System</h3>
+            <h4 class="authors">
+		     <b>Abdulrahman Bin Rabiah</b>, Anas Alsoliman, Yugarshi Shashwat, Silas Richelson, Nael Abu-Ghazaleh
+            </h4>
+            <p>The United States Patent and Trademark Office (USPTO)</p>
+        </div>
+    </article>
+
+
+    <article>
+        <a classa="pub_image"><img src="files/mss logo.png"></a>
+        <div class="pub_text">
+            <h3>Lightweight network authentication for resource constrained devices via Mergeable Stateful Signatures</h3>
+            <h4 class="authors">
+		     <b>Abdulrahman Bin Rabiah</b>, Yugarshi Shashwat, Silas Richelson, Nael Abu-Ghazaleh
+            </h4>
+            <p>The United States Patent and Trademark Office (USPTO)</p> [<a href="https://patents.google.com/patent/US20230034512A1/en">patent (pending)</a>]
+        </div>
+    </article>
 
 <div><h1>Work Experience</h1></div>
 <div id="WorkExperience">
