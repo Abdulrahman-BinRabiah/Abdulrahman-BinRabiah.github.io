@@ -88,6 +88,9 @@ Explore my site to learn more about my professional journey, contributions to cy
         </div>
     </article>
 
+<hr>
+
+
 <div><h1>Work Experience</h1></div>
 <div id="WorkExperience">
 	
@@ -159,6 +162,9 @@ Explore my site to learn more about my professional journey, contributions to cy
 </div>
 
 <hr>
+
+
+
 
 <div><h1>Publications</h1></div>
 <div id="publications">
