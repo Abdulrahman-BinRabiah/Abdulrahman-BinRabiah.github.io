@@ -101,9 +101,10 @@
 }
 
 #education article a img {
-    background-color: black;
-    width: 50%;
-    float: left;
+    flex-shrink: 0; /* Prevents the logos from shrinking */
+    width: 100px; /* Sets the width of the logos */
+    height: auto; /* Maintains the aspect ratio of the logos */
+    margin-left: 20px; /* Adjusts the space to the left of the logos */
 }
 
 #education article .pub_text {
