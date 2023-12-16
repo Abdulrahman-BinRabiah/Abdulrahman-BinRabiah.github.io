@@ -42,6 +42,22 @@
 
 
 
+#Patents article {
+    overflow: hidden;
+    width: 100%;
+}
+
+#Patents article a img {
+    background-color: black;
+    width: 20%;
+    float: left;
+}
+
+#Patents article .pub_text {
+    width: 67%;
+    margin-left: 3%;
+    float: left;
+}
 
 
 #WorkExperience article {
@@ -62,22 +78,6 @@
 }
 
 
-#publications article {
-    overflow: hidden;
-    width: 100%;
-}
-
-#publications article a img {
-    background-color: black;
-    width: 20%;
-    float: left;
-}
-
-#publications article .pub_text {
-    width: 67%;
-    margin-left: 3%;
-    float: left;
-}
 
 
 
@@ -130,6 +130,24 @@
 }
 
 
+
+
+#publications article {
+    overflow: hidden;
+    width: 100%;
+}
+
+#publications article a img {
+    background-color: black;
+    width: 20%;
+    float: left;
+}
+
+#publications article .pub_text {
+    width: 67%;
+    margin-left: 3%;
+    float: left;
+}
 
 
 
