@@ -96,8 +96,11 @@
 
 
 #education article {
-    overflow: hidden;
+    display: flex;
+    align-items: center; /* Vertically center items within the container */
+    justify-content: space-between; /* This will put space between your items */
     width: 100%;
+    margin-bottom: 2em; /* Adjust this value to increase or decrease the space between degree entries */
 }
 
 #education article a img {
