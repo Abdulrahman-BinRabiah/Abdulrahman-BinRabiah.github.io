@@ -110,10 +110,23 @@
     margin-left: 20px; /* Adjusts the space to the left of the logos */
 }
 
-#education article .pub_text {
-    width: 67%;
-    margin-left: 3%;
-    float: left;
+#education article .edu-text {
+    flex-grow: 1; /* Allows the text blocks to grow and fill available space */
+    margin-right: 20px; /* Adjusts the space between the text blocks and the logos */
+}
+
+#education .edu-text p {
+    margin-bottom: 0; /* This removes the space below paragraphs specifically in the education section */
+}
+
+#education .edu-text h3 {
+    margin: 0.5em; /* Adjusts the space above <h3> headings to half the current font size */
+    margin-left: 0;
+    padding-left: 0;
+    text-indent: 0;
+}
+.current-study {
+    color: red;
 }
 
 
