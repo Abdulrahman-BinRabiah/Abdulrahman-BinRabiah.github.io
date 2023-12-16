@@ -119,14 +119,15 @@ Explore my site to learn more about my professional journey, contributions to cy
 <div id="education">
 	
         <article>
+	<a classa="pub_image"><img src="files/ucrlogo.png"></a>
         <div class="edu-text">
-	<h3>University of California, Riverside</h3>
-	<p><em>PhD in Computer Science</em></p>
-	<p>Riverside, CA</p>
-	<p>2023</p>
-	<p>Advisors: Professor <a href="https://www.cs.ucr.edu/~nael/" target="_blank" rel="noopener noreferrer">Nael Abu-Ghazaleh</a> and Professor <a href="https://www.cs.ucr.edu/~silas/" target="_blank" rel="noopener noreferrer">Silas Richelson</a> </p>
+		<h3>University of California, Riverside</h3>
+		<p><em>PhD in Computer Science</em></p>
+		<p>Riverside, CA</p>
+		<p>2023</p>
+		<p>Advisors: Professor <a href="https://www.cs.ucr.edu/~nael/" target="_blank" rel="noopener noreferrer">Nael Abu-Ghazaleh</a> and Professor <a href="https://www.cs.ucr.edu/~silas/" target="_blank" rel="noopener noreferrer">Silas Richelson</a> </p>
         </div>
-        <a href="#" class="edu_image"><img src="files/ucrlogo.png" alt="University of California, Riverside Logo"></a>
+        
     </article>
 
 	<article>
