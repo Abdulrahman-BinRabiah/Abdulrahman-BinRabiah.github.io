@@ -41,6 +41,27 @@
 @import "print";
 
 
+
+
+
+#WorkExperience article {
+    overflow: hidden;
+    width: 100%;
+}
+
+#WorkExperience article a img {
+    background-color: black;
+    width: 30%;
+    float: left;
+}
+
+#WorkExperience article .pub_text {
+    width: 67%;
+    margin-left: 3%;
+    float: left;
+}
+
+
 #publications article {
     overflow: hidden;
     width: 100%;
@@ -94,22 +115,6 @@
 
 
 
-#WorkExperience article {
-    overflow: hidden;
-    width: 100%;
-}
-
-#WorkExperience article a img {
-    background-color: black;
-    width: 50%;
-    float: left;
-}
-
-#WorkExperience article .pub_text {
-    width: 67%;
-    margin-left: 3%;
-    float: left;
-}
 
 
 
