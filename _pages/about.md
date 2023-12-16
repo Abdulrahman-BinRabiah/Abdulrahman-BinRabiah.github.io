@@ -94,13 +94,14 @@ Explore my site to learn more about my professional journey, contributions to cy
 <div id="WorkExperience">
 	
     <article>
-        <a classa="pub_image"><img src="files/Lucidlogo.jpg"></a>
+        
         <div class="pub_text">
             <h3>Lucid Motors</h3>
 	    <p>Sr. Systems Engineer, Security</p>
 	    <p>Newark, California, United States of America (USA) <br>
      March 2023 - Present</p>
         </div>
+	<a href="#" class="edu_image"><img src="files/ucrlogo.png" alt="University of California, Riverside Logo"></a>
     </article>
 
     
@@ -125,9 +126,9 @@ Explore my site to learn more about my professional journey, contributions to cy
 		<p><em>PhD in Computer Science</em></p>
 		<p>Riverside, CA</p>
 		<p>2023</p>
-		<p>Advisors: Professor <a href="https://www.cs.ucr.edu/~nael/" target="_blank" rel="noopener noreferrer">Nael Abu-Ghazaleh</a> and Professor <a href="https://www.cs.ucr.edu/~silas/" target="_blank" rel="noopener noreferrer">Silas Richelson</a> </p>
+		<p>Advisors: Professor <a href="https://www.cs.ucr.edu/~nael/" target="_blank" rel="noopener noreferrer">Nael Abu-Ghazaleh</a> and Professor <a href="https://www.cs.ucr.edu/~silas/" target="_blank" rel="noopener noreferrer">Silas Richelson</a> </p> 
         </div>
-        
+<a href="#" class="edu_image"><img src="files/ucrlogo.png" alt="University of California, Riverside Logo"></a>        
     </article>
 
 	<article>
