@@ -200,7 +200,7 @@ Explore my site to learn more about my professional journey, contributions to cy
             </h4>
             <p>ICDCN 2021</p> [<a href="https://www.researchgate.net/publication/347979731_Haiku_Efficient_Authenticated_Key_Agreement_with_Strong_Security_Guarantees_for_IoT#fullTextFileContent">paper</a>]
         </div>
-	<a href="#" class="edu_image"><img src="files/snapshot.png" alt="Haiku Logo"></a>
+	<a href="#" class="edu_image"><img src="files/haiku.png" alt="Haiku Logo"></a>
     </article>
 
     <article>
