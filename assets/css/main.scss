@@ -43,21 +43,40 @@
 
 
 #Patents article {
-    overflow: hidden;
+    display: flex;
+    align-items: center; /* Vertically center items within the container */
+    justify-content: space-between; /* This will put space between your items */
     width: 100%;
+    margin-bottom: 2em; /* Adjust this value to increase or decrease the space between degree entries */
 }
 
 #Patents article a img {
-    background-color: black;
-    width: 20%;
-    float: left;
+    flex-shrink: 0; /* Prevents the logos from shrinking */
+    width: 200px; /* Sets the width of the logos */
+    height: auto; /* Maintains the aspect ratio of the logos */
+    margin-left: 20px; /* Adjusts the space to the left of the logos */
 }
 
-#Patents article .pub_text {
-    width: 67%;
-    margin-left: 3%;
-    float: left;
+#Patents article .edu-text {
+    flex-grow: 1; /* Allows the text blocks to grow and fill available space */
+    margin-right: 20px; /* Adjusts the space between the text blocks and the logos */
 }
+
+#Patents .edu-text p {
+    margin-bottom: 0; /* This removes the space below paragraphs specifically in the education section */
+}
+
+#Patents .edu-text h3 {
+    margin: 0.5em; /* Adjusts the space above <h3> headings to half the current font size */
+    margin-left: 0;
+    padding-left: 0;
+    text-indent: 0;
+}
+.current-study {
+    color: red;
+}
+
+
 
 
 // #WorkExperience article {
