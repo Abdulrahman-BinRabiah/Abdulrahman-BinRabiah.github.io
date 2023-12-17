@@ -101,7 +101,7 @@ Explore my site to learn more about my professional journey, contributions to cy
 	    <p>Newark, California, United States of America (USA) <br>
      March 2023 - Present</p>
         </div>
-	<a href="#" class="edu_image"><img src="files/lucidlogo.png" alt="University of California, Riverside Logo"></a>
+	<a href="#" class="edu_image"><img src="files/lucidlogo.png" alt="Lucid Motors Logo"></a>
     </article>
 
     
