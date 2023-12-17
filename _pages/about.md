@@ -193,7 +193,6 @@ Explore my site to learn more about my professional journey, contributions to cy
     </article>
     
     <article>
-        <a classa="pub_image"><img src="files/1_haiku/snapshot.png"></a>
         <div class="pub_text">
             <h3>Haiku: Efficient Authenticated Key Agreement with Strong Security Guarantees for IoT</h3>
             <h4 class="authors">
@@ -205,7 +204,6 @@ Explore my site to learn more about my professional journey, contributions to cy
     </article>
 
     <article>
-        <a classa="pub_image"><img src="files/csnetlogo"></a>
         <div class="pub_text">
             <h3>Privacy-Preserving Authentication Framework for UAS Traffic Management Systems</h3>
             <h4 class="authors">
