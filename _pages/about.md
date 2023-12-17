@@ -176,7 +176,7 @@ Explore my site to learn more about my professional journey, contributions to cy
             <h4 class="authors">
 		     <b>Abdulrahman Bin Rabiah</b>, Yugarshi Shashwat, Fatemah Alharbi, Silas Richelson, Nael Abu-Ghazaleh
             </h4>
-            <p>IEEE International Conference on Distributed Computing Systems (ICDCS) 2021</p> [<a href="https://bit.ly/3hq1bIa">paper</a>]
+            <p>ICDCS 2021</p> [<a href="https://bit.ly/3hq1bIa">paper</a>]
         </div>
 	<a href="#" class="edu_image"><img src="files/mss logo.png" alt="MSS Logo"></a>
     </article>
