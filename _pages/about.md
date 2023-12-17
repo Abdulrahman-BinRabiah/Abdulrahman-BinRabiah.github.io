@@ -71,7 +71,7 @@ Explore my site to learn more about my professional journey, contributions to cy
             <h4 class="authors">
 		     <b>Abdulrahman Bin Rabiah</b>, Anas Alsoliman, Yugarshi Shashwat, Silas Richelson, Nael Abu-Ghazaleh
             </h4>
-            <p>The United States Patent and Trademark Office (USPTO)</p>
+            <p> U.S. Patent Application 18/381759. The United States Patent and Trademark Office (USPTO)</p>
         </div>
 	<a href="#" class="edu_image"><img src="files/tvsslogo.png" alt="TVSS Logo"></a>
     </article>
@@ -83,7 +83,7 @@ Explore my site to learn more about my professional journey, contributions to cy
             <h4 class="authors">
 		     <b>Abdulrahman Bin Rabiah</b>, Yugarshi Shashwat, Silas Richelson, Nael Abu-Ghazaleh
             </h4>
-            <p>The United States Patent and Trademark Office (USPTO)</p> [<a href="https://patents.google.com/patent/US20230034512A1/en">patent (pending)</a>]
+            <p>U.S. Patent Application 17/856849. The United States Patent and Trademark Office (USPTO)</p> [<a href="https://patents.google.com/patent/US20230034512A1/en">patent (pending)</a>]
         </div>
 	<a href="#" class="edu_image"><img src="files/mss logo.png" alt="MSS Logo"></a>	
     </article>
