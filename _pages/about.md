@@ -171,7 +171,6 @@ Explore my site to learn more about my professional journey, contributions to cy
 <div id="publications">
 	
     <article>
-        <a classa="pub_image"><img src="files/mss logo.png"></a>
         <div class="pub_text">
             <h3>MSS: Lightweight network authentication for resource constrained devices via Mergeable Stateful Signatures</h3>
             <h4 class="authors">
@@ -179,10 +178,10 @@ Explore my site to learn more about my professional journey, contributions to cy
             </h4>
             <p>IEEE International Conference on Distributed Computing Systems (ICDCS) 2021</p> [<a href="https://bit.ly/3hq1bIa">paper</a>]
         </div>
+	<a href="#" class="edu_image"><img src="files/mss logo.png" alt="MSS Logo"></a>
     </article>
 
         <article>
-        <a classa="pub_image"><img src="files/csprop logo.png"></a>
         <div class="pub_text">
             <h3>CSProp: Ciphertext and Signature Propagation Low-Overhead Public-Key Cryptosystem for IoT</h3>
             <h4 class="authors">
@@ -190,6 +189,7 @@ Explore my site to learn more about my professional journey, contributions to cy
             </h4>
             <p>USENIX Security Symposium 2021</p> [<a href="https://www.usenix.org/system/files/sec21-alharbi.pdf">paper</a>]
         </div>
+	<a href="#" class="edu_image"><img src="files/csprop logo.png" alt="CSProp Logo"></a>
     </article>
     
     <article>
@@ -201,6 +201,7 @@ Explore my site to learn more about my professional journey, contributions to cy
             </h4>
             <p>ICDCN 2021</p> [<a href="https://www.researchgate.net/publication/347979731_Haiku_Efficient_Authenticated_Key_Agreement_with_Strong_Security_Guarantees_for_IoT#fullTextFileContent">paper</a>]
         </div>
+	<a href="#" class="edu_image"><img src="files/snapshot logo.png" alt="Haiku Logo"></a>
     </article>
 
     <article>
@@ -212,11 +213,10 @@ Explore my site to learn more about my professional journey, contributions to cy
             </h4>
             <p>CSNet 2021</p> [<a href="https://ieeexplore.ieee.org/abstract/document/9265534">paper</a>]
         </div>
+	<a href="#" class="edu_image"><img src="files/csnetlogo.png" alt="CSNet Paper Logo"></a>
     </article>
 
-
     <article>
-        <a classa="pub_image"><img src="files/lanmanlogo.png"></a>
         <div class="pub_text">
             <h3>Robustness of IoT Application Protocols to Network Impairments</h3>
             <h4 class="authors">
@@ -224,11 +224,11 @@ Explore my site to learn more about my professional journey, contributions to cy
             </h4>
             <p>LANMAN 2018</p> [<a href="https://www.researchgate.net/publication/328458525_Robustness_of_IoT_Application_Protocols_to_Network_Impairments">paper</a>]
         </div>
+	<a href="#" class="edu_image"><img src="files/lanmanlogo.png" alt="LANMAN Logo"></a>
     </article>
 
     
     <article>
-        <a classa="pub_image"><img src="files/disslogo.png"></a>
         <div class="pub_text">
             <h3>A Lightweight Authentication and Key Exchange Protocol for IoT</h3>
             <h4 class="authors">
@@ -236,6 +236,7 @@ Explore my site to learn more about my professional journey, contributions to cy
             </h4>
             <p>DISS, NDSS 2018</p> [<a href="https://www.ndss-symposium.org/wp-content/uploads/2018/07/diss2018_4_Bin-Rabiah_paper.pdf">paper</a>]
         </div>
+	<a href="#" class="edu_image"><img src="files/disslogo.png" alt="DISS Paper Logo"></a>
     </article>
 
 
