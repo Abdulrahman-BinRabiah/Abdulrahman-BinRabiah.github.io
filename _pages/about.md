@@ -120,7 +120,6 @@ Explore my site to learn more about my professional journey, contributions to cy
 <div id="education">
 	
         <article>
-	<a classa="pub_image"><img src="files/ucrlogo.png"></a>
         <div class="edu-text">
 		<h3>University of California, Riverside</h3>
 		<p><em>PhD in Computer Science</em></p>
