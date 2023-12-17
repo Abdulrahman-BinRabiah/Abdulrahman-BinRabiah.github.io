@@ -148,7 +148,7 @@ Explore my site to learn more about my professional journey, contributions to cy
 	<p>Pittsburgh, PA</p>
 	<p>2016</p>
         </div>
-        <a href="#" class="edu_image"><img src="files/pittlogo.jpeg" alt="University of Pittsburgh Logo"></a>
+        <a href="#" class="edu_image"><img src="files/pittlogo.png" alt="University of Pittsburgh Logo"></a>
     </article>
     
      <article>
