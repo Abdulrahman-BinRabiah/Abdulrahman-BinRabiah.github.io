@@ -66,7 +66,6 @@ Explore my site to learn more about my professional journey, contributions to cy
 <div id="Patents">
 	
     <article>
-        <a classa="pub_image"><img src="files/tvsslogo.png"></a>
         <div class="pub_text">
             <h3>Token-based Vehicular Security System</h3>
             <h4 class="authors">
@@ -74,11 +73,11 @@ Explore my site to learn more about my professional journey, contributions to cy
             </h4>
             <p>The United States Patent and Trademark Office (USPTO)</p>
         </div>
+	<a href="#" class="edu_image"><img src="files/tvsslogo.png" alt="TVSS Logo"></a>
     </article>
 
 
     <article>
-        <a classa="pub_image"><img src="files/mss logo.png"></a>
         <div class="pub_text">
             <h3>Lightweight network authentication for resource constrained devices via Mergeable Stateful Signatures</h3>
             <h4 class="authors">
@@ -86,6 +85,7 @@ Explore my site to learn more about my professional journey, contributions to cy
             </h4>
             <p>The United States Patent and Trademark Office (USPTO)</p> [<a href="https://patents.google.com/patent/US20230034512A1/en">patent (pending)</a>]
         </div>
+	<a href="#" class="edu_image"><img src="files/mss logo.png" alt="MSS Logo"></a>	
     </article>
 
 <hr>
@@ -106,12 +106,13 @@ Explore my site to learn more about my professional journey, contributions to cy
 
     
     <article>
-        <a classa="pub_image"><img src="files/Boschlogo.jpg"></a>
         <div class="pub_text">
             <h3>Bosch</h3>
 	    <p>Machine Learning Security Engineer</p>
 	    <p>Pittsburgh, Pennsylvania, United States of America (USA) <br> September 2021 - July 2022</p>
         </div>
+	<a href="#" class="edu_image"><img src="files/Boschlogo.jpg" alt="Bosch Logo"></a>
+
     </article>
 
 <hr>
