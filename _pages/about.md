@@ -85,7 +85,7 @@ Explore my site to learn more about my professional journey, contributions to cy
             </h4>
             <p>U.S. Patent Application 17/856849. The United States Patent and Trademark Office (USPTO)</p> [<a href="https://patents.google.com/patent/US20230034512A1/en">patent (pending)</a>]
         </div>
-	<a href="#" class="edu_image"><img src="files/mss logo.png" alt="MSS Logo"></a>	
+	<a href="#" class="edu_image"><img src="files/mss logo2.png" alt="MSS Logo"></a>	
     </article>
 
 <hr>
