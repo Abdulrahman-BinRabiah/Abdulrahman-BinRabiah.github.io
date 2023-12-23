@@ -10,12 +10,19 @@ redirect_from:
 
 <div class="intro">
 	<p align="justify">
-		Welcome to the professional page of Abdulrahman Bin Rabiah, a dynamic Senior Systems Engineer, Security at <a href="https://lucidmotors.com/" target="_blank" rel="noopener noreferrer">Lucid Motors USA</a> and former Machine Learning Security Engineer at <a href="https://www.bosch.us/our-company/innovation/" target="_blank" rel="noopener noreferrer">Bosch USA</a>. With a PhD in Computer Science from the <a href="https://www1.cs.ucr.edu/" target="_blank" rel="noopener noreferrer">University of California, Riverside (UCR)</a>, I specialize in enhancing security in the IoT and automotive sectors through innovative cryptographic mechanisms and secure communication protocols.<br>
+<!-- 		Welcome to the professional page of Abdulrahman Bin Rabiah, a dynamic Senior Systems Engineer, Security at <a href="https://lucidmotors.com/" target="_blank" rel="noopener noreferrer">Lucid Motors USA</a> and former Machine Learning Security Engineer at <a href="https://www.bosch.us/our-company/innovation/" target="_blank" rel="noopener noreferrer">Bosch USA</a>. With a PhD in Computer Science from the <a href="https://www1.cs.ucr.edu/" target="_blank" rel="noopener noreferrer">University of California, Riverside (UCR)</a>, I specialize in enhancing security in the IoT and automotive sectors through innovative cryptographic mechanisms and secure communication protocols.<br>
 At Lucid Motors, I spearheaded the development of Secure Onboard Communication protocols, significantly elevating vehicle network security. My tenure at Bosch USA was marked by pioneering work in enabling IoT devices to securely outsource deep neural network computations. <br>
 
 My academic journey culminated in a <a href="https://escholarship.org/uc/item/2gg372hh" target="_blank" rel="noopener noreferrer">dissertation</a> focusing on lightweight cryptographic mechanisms for IoT and embedded systems, under the guidance of esteemed Professors <a href="https://www.cs.ucr.edu/~nael/" target="_blank" rel="noopener noreferrer">Nael Abu-Ghazaleh</a> and Professor <a href="https://www.cs.ucr.edu/~silas/" target="_blank" rel="noopener noreferrer">Silas Richelson</a>. This work, along with other projects at UCR, led to multiple publications and patents, showcasing my commitment to advancing the field of cybersecurity. <br>
 
-Explore my site to learn more about my professional journey, contributions to cybersecurity, and ongoing efforts to bridge the gap between academic research and industry applications.
+Explore my site to learn more about my professional journey, contributions to cybersecurity, and ongoing efforts to bridge the gap between academic research and industry applications. -->
+
+
+I am Abdulrahman Bin Rabiah, a Senior Systems Security Engineer at <a href="https://lucidmotors.com/" target="_blank" rel="noopener noreferrer">Lucid Motors USA</a>, and previously a Machine Learning Security Engineer at <a href="https://www.bosch.us/our-company/innovation/" target="_blank" rel="noopener noreferrer">Bosch USA</a>. My expertise lies in enhancing security in the IoT and automotive sectors through innovative cryptographic mechanisms and secure communication protocols.
+
+I received my PhD in Computer Science from the <a href="https://www1.cs.ucr.edu/" target="_blank" rel="noopener noreferrer">University of California, Riverside (UCR)</a>, where I was co-advised by Professor <a href="https://www.cs.ucr.edu/~nael/" target="_blank" rel="noopener noreferrer">Nael Abu-Ghazaleh</a> and Professor <a href="https://www.cs.ucr.edu/~silas/" target="_blank" rel="noopener noreferrer">Silas Richelson</a>. My research focused on developing lightweight cryptographic mechanisms for resource-constrained devices, such as those used in IoT and embedded systems. <a href="https://scholar.google.com/citations?user=wuwOXMkAAAAJ&hl=en" target="_blank" rel="noopener noreferrer"> My work</a> has not only resulted in multiple publications and patents but also has been recognized in top-tier security venues.
+
+My ultimate goal is the seamless integration of academic research with practical industry applications, bridging the gap between theoretical knowledge and real-world utility, thereby advancing the field of cybersecurity.
 	</p>
 </div>
 
